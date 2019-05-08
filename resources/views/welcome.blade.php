@@ -9,7 +9,7 @@
 
     <title>Wine Wednesdays</title>
 
-    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.ico') }}">
+    <link rel="shortcut icon" href="{{ asset('assets/images/wine_logo.png') }}">
 
     <!-- STYLES -->
     <link href="{{ asset('assets/css/plugins.css') }}" rel="stylesheet">
@@ -629,21 +629,20 @@
                                 <div class="list_in">
                                     <div class="inner">
                                         <div class="list_image">
-                                            <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="{{ asset('assets/images/2(1).jpg') }}" alt=""></a>
+                                            <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="{{ asset('assets/images/new_lindo.png') }}" alt=""></a>
                                         </div>
                                         <div class="overlay_image"><a href="#"></a></div>
                                     </div>
                                     <div class="medina_tm_team_author_definition">
                                         <div class="team_information">
-                                            <span class="name"><a href="#">Alex Sezzar</a></span>
+                                            <span class="name"><a href="#">Lindo (DOGG_DBN) Buthelezi</a></span>
                                             <span class="job">Ceo Founder</span>
                                         </div>
                                         <div class="social_icons">
                                             <ul>
-                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-facebook"></i></a></li>
-                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-twitter"></i></a></li>
-                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-instagram"></i></a></li>
-                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-behance"></i></a></li>
+                                                <li><a target="_blank" href="https://www.facebook.com/DOGG031"><i class="xcon-facebook"></i></a></li>
+                                                <li><a target="_blank" href="https://twitter.com/Dogg_Dbn"><i class="xcon-twitter"></i></a></li>
+                                                <li><a target="_blank" href="https://www.instagram.com/dogg_dbn_/"><i class="xcon-instagram"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
