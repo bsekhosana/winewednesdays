@@ -146,6 +146,7 @@ img.svg{
 .medina_tm_header .logo{
 	position: absolute;
 	left: 0px;
+	bottom: -47px;
 }
 .medina_tm_header .logo .dark{display: none;}
 .medina_tm_header .logo .light{display: inline-block;}
@@ -557,7 +558,7 @@ img.svg{
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
-.medina_tm_about_me_wrap .my_image.white{background-image: url(..//img/slider/6.jpg);}
+.medina_tm_about_me_wrap .my_image.white{background-image: url(../images/lindo1.jpg);}
 .medina_tm_about_me_wrap .my_image{
 	width: 50%;
 	height: 100%;
@@ -566,12 +567,12 @@ img.svg{
 	left: 0px;
 	right: 0px;
 	z-index: 20;
-	background-image: url(..//img/slider/47.jpg);
+	background-image: url(../images/lindo1.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-.medina_tm_about_me_wrap .my_image.main{background-image: url(..//img/slider/10.jpg);}
+.medina_tm_about_me_wrap .my_image.main{background-image: url(../images/lindo1.jpg);}
 .medina_tm_about_me_wrap .my_image .overlay_about{
 	position: absolute;
 	top: 0px;

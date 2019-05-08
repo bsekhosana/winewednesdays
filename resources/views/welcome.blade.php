@@ -9,10 +9,10 @@
 
     <title>Wine Wednesdays</title>
 
-    <link rel="shortcut icon" href="http://frenify.com/envato/marketify/html/medina/1/img/favicon.ico">
+    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.ico') }}">
 
     <!-- STYLES -->
-    <link href="./Medina HTML 5 Template_files/css" rel="stylesheet">
+    <link href="{{ asset('assets/css/plugins.css') }}" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/plugins.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}">
     {{--<!--[if lt IE 9]> <script type="text/javascript" src="{{ asset('assets/css/plugins.css') }}js/modernizr.custom.js"></script> <![endif]-->--}}
@@ -484,29 +484,29 @@
         <div class="in">
             <div class="in_relative">
                 <div class="logo">
-                    <a class="light" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="./Medina HTML 5 Template_files/macro_light.png" alt=""></a>
-                    <a class="dark" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="./Medina HTML 5 Template_files/macro_dark.png" alt=""></a>
+                    <a class="light" href=""><img src="{{ asset('assets/images/wine_logo.png') }}" alt=""></a>
+                    <a class="dark" href="#"><img src=".{{ asset('assets/images/wine_logo.png') }}/" alt=""></a>
                 </div>
                 <div class="navigation_list_wrap">
                     <div class="menu">
                         <ul class="anchor_nav">
-                            <li class="current"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#home">Home</a></li>
-                            <li class=""><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#about">About</a></li>
-                            <li class=""><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#services">Services</a></li>
-                            <li class=""><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#portfolio">Portfolio</a></li>
-                            <li class=""><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#blog">Blog</a></li>
-                            <li class=""><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#contact">Contact</a></li>
+                            <li class="current"><a href="#home">Home</a></li>
+                            <li class=""><a href="#about">About</a></li>
+                            <li class=""><a href="#team">Our Team</a></li>
+                            <li class=""><a href="#portfolio">Portfolio</a></li>
+                            <li class=""><a href="#blog">Blog</a></li>
+                            <li class=""><a href="#contact">Contact</a></li>
                         </ul>
                     </div>
                     <div class="social_icons">
                         <ul>
                             <li class="audio">
-                                <a class="voice_on" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-volume-up"></i></a>
+                                <a class="voice_on" href="#"><i class="xcon-volume-up"></i></a>
                             </li>
-                            <li class="icon"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-facebook"></i></a></li>
-                            <li class="icon"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-twitter"></i></a></li>
-                            <li class="icon"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-instagram"></i></a></li>
-                            <li class="icon"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-behance"></i></a></li>
+                            <li class="icon"><a href="#"><i class="xcon-facebook"></i></a></li>
+                            <li class="icon"><a href="#"><i class="xcon-twitter"></i></a></li>
+                            <li class="icon"><a href="#"><i class="xcon-instagram"></i></a></li>
+                            <li class="icon"><a href="#"><i class="xcon-behance"></i></a></li>
                         </ul>
                     </div>
                     <div class="medina_tm_trigger">
@@ -522,12 +522,12 @@
         <!-- MOBILE MENU -->
         <div class="medina_tm_mobile_menu_wrap">
             <ul class="anchor_nav">
-                <li class="current"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#home">Home</a></li>
-                <li class=""><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#about">About</a></li>
-                <li class=""><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#services">Services</a></li>
-                <li class=""><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#portfolio">Portfolio</a></li>
-                <li class=""><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#blog">Blog</a></li>
-                <li class=""><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#contact">Contact</a></li>
+                <li class="current"><a href="#home">Home</a></li>
+                <li class=""><a href="#about">About</a></li>
+                <li class=""><a href="#services">Services</a></li>
+                <li class=""><a href="#portfolio">Portfolio</a></li>
+                <li class=""><a href="#blog">Blog</a></li>
+                <li class=""><a href="#contact">Contact</a></li>
             </ul>
         </div>
     </header>
@@ -559,7 +559,7 @@
                     </div>
                     <div class="down">
                         <div class="in anchor">
-                            <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#about"><span class="animated"><i class="xcon-angle-down"></i></span></a>
+                            <a href="#about"><span class="animated"><i class="xcon-angle-down"></i></span></a>
                         </div>
                     </div>
                     <div class="effectiv">
@@ -580,7 +580,7 @@
         <div class="medina_tm_section" id="about">
             <div class="medina_tm_title_holder">
                 <span class="title_section">About Us</span>
-                <span class="title_definition">Lorem Ipsum is simply dummy text of the super printing.</span>
+                <span class="title_definition">How, Where, When & Why We Started Wine Wednsesdays</span>
                 <span class="line"></span>
             </div>
             <div class="hideanimation">
@@ -590,7 +590,7 @@
                     </div>
                     <div class="image_definition animated fadeInRight">
                         <div class="name_holder">
-                            <h3>Hi. I'm John Doe. I Love Photography.</h3>
+                            <h3>Hi. I'm DoggDBN. I Love Making People Happy.</h3>
                         </div>
                         <div class="description">
                             <p>During a trip to Los Angeles in 2017, I hatched an idea to try and visit all the National Park Units in the lower 48 states on a series of long driving trips.</p>
@@ -600,1155 +600,109 @@
                             <p class="mail"><label>Mail:</label><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">JohnDoe@mail.com</a></p>
                             <label class="social">On socials:</label>
                             <ul>
-                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-facebook"></i></a></li>
-                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-twitter"></i></a></li>
-                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-instagram"></i></a></li>
-                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-behance"></i></a></li>
+                                <li><a href="#"><i class="xcon-facebook"></i></a></li>
+                                <li><a href="#"><i class="xcon-twitter"></i></a></li>
+                                <li><a href="#"><i class="xcon-instagram"></i></a></li>
+                                <li><a href="#"><i class="xcon-behance"></i></a></li>
                             </ul>
                         </div>
                         <div class="sign">
-                            <img src="./Medina HTML 5 Template_files/sign-half-dark.png" alt="">
+                            <img src="{{ asset('assets/images/sign-half-dark.png') }}" alt="">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
-        <!-- SKILLS -->
-        <div class="medina_tm_section">
-            <div class="medina_tm_skills_wrap">
-                <div class="container">
-                    <div class="inner">
-                        <div class="left">
-                            <div class="title_in">
-                                <h3>Skills</h3>
-                            </div>
-                            <div class="medina_tm_progress_wrap" data-size="small" data-round="c" data-strip="on">
-                                <div class="medina_tm_progress" data-value="90" data-color="#333">
-                                    <span><span class="label">Photography</span><span class="number">90%</span></span>
-                                    <div class="medina_tm_bar_bg"><div class="medina_tm_bar_wrap open"><div class="medina_tm_bar" style="width: 90%; background-color: rgb(51, 51, 51);"></div></div></div>
-                                </div>
-                                <div class="medina_tm_progress" data-value="80" data-color="#333">
-                                    <span><span class="label">Photoshop</span><span class="number">80%</span></span>
-                                    <div class="medina_tm_bar_bg"><div class="medina_tm_bar_wrap open"><div class="medina_tm_bar" style="width: 80%; background-color: rgb(51, 51, 51);"></div></div></div>
-                                </div>
-                                <div class="medina_tm_progress" data-value="70" data-color="#333">
-                                    <span><span class="label">Web Design</span><span class="number">70%</span></span>
-                                    <div class="medina_tm_bar_bg"><div class="medina_tm_bar_wrap open"><div class="medina_tm_bar" style="width: 70%; background-color: rgb(51, 51, 51);"></div></div></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="right">
-                            <div class="title_in">
-                                <h3>We are very confident</h3>
-                            </div>
-                            <p>I can’t hide behind lights and technology, I am reliant on a small camera, patience and lots of optimism. But what I get in return is the chance to make an honest picture which people know immediately is a genuine moment and which hopefully burrows deep into their memories...<br></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /SKILLS -->
-
-        <!-- TESTIMONIAL -->
-        <div class="medina_tm_section">
-            <div class="medina_tm_title_holder">
-                <span class="title_section">What our clients say ?</span>
-                <span class="line"></span>
-            </div>
-            <div class="medina_tm_testimonials_wrap">
-                <div class="flexslider">
-                    <ul class="slides">
-                        <li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-                            <div class="persons_wrap">
-                                <div class="image first"><div class="overlay"></div></div>
-                                <div class="definition">
-                                    <div class="quote">
-                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="95.333px" height="95.332px" viewBox="0 0 95.333 95.332" style="enable-background:new 0 0 95.333 95.332;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <g>
-        <path d="M30.512,43.939c-2.348-0.676-4.696-1.019-6.98-1.019c-3.527,0-6.47,0.806-8.752,1.793    c2.2-8.054,7.485-21.951,18.013-23.516c0.975-0.145,1.774-0.85,2.04-1.799l2.301-8.23c0.194-0.696,0.079-1.441-0.318-2.045    s-1.035-1.007-1.75-1.105c-0.777-0.106-1.569-0.16-2.354-0.16c-12.637,0-25.152,13.19-30.433,32.076    c-3.1,11.08-4.009,27.738,3.627,38.223c4.273,5.867,10.507,9,18.529,9.313c0.033,0.001,0.065,0.002,0.098,0.002    c9.898,0,18.675-6.666,21.345-16.209c1.595-5.705,0.874-11.688-2.032-16.851C40.971,49.307,36.236,45.586,30.512,43.939z"></path>
-        <path d="M92.471,54.413c-2.875-5.106-7.61-8.827-13.334-10.474c-2.348-0.676-4.696-1.019-6.979-1.019    c-3.527,0-6.471,0.806-8.753,1.793c2.2-8.054,7.485-21.951,18.014-23.516c0.975-0.145,1.773-0.85,2.04-1.799l2.301-8.23    c0.194-0.696,0.079-1.441-0.318-2.045c-0.396-0.604-1.034-1.007-1.75-1.105c-0.776-0.106-1.568-0.16-2.354-0.16    c-12.637,0-25.152,13.19-30.434,32.076c-3.099,11.08-4.008,27.738,3.629,38.225c4.272,5.866,10.507,9,18.528,9.312    c0.033,0.001,0.065,0.002,0.099,0.002c9.897,0,18.675-6.666,21.345-16.209C96.098,65.559,95.376,59.575,92.471,54.413z"></path>
-    </g>
-</g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-</svg>
-                                    </div>
-                                    <div class="testimonial_word">
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the industry.Lorem Ipsum is simply dummy text of the printing.Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-                                    </div>
-                                    <div class="name">
-                                        <span class="person">Maxwell Anderson</span><span class="line"></span><span class="job">Photographer</span>
-                                    </div>
-                                    <div class="mini_person">
-                                        <img src="./Medina HTML 5 Template_files/1.jpg" alt="" draggable="false">
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;" class="flex-active-slide">
-                            <div class="persons_wrap">
-                                <div class="image second"><div class="overlay"></div></div>
-                                <div class="definition">
-                                    <div class="quote">
-                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="95.333px" height="95.332px" viewBox="0 0 95.333 95.332" style="enable-background:new 0 0 95.333 95.332;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <g>
-        <path d="M30.512,43.939c-2.348-0.676-4.696-1.019-6.98-1.019c-3.527,0-6.47,0.806-8.752,1.793    c2.2-8.054,7.485-21.951,18.013-23.516c0.975-0.145,1.774-0.85,2.04-1.799l2.301-8.23c0.194-0.696,0.079-1.441-0.318-2.045    s-1.035-1.007-1.75-1.105c-0.777-0.106-1.569-0.16-2.354-0.16c-12.637,0-25.152,13.19-30.433,32.076    c-3.1,11.08-4.009,27.738,3.627,38.223c4.273,5.867,10.507,9,18.529,9.313c0.033,0.001,0.065,0.002,0.098,0.002    c9.898,0,18.675-6.666,21.345-16.209c1.595-5.705,0.874-11.688-2.032-16.851C40.971,49.307,36.236,45.586,30.512,43.939z"></path>
-        <path d="M92.471,54.413c-2.875-5.106-7.61-8.827-13.334-10.474c-2.348-0.676-4.696-1.019-6.979-1.019    c-3.527,0-6.471,0.806-8.753,1.793c2.2-8.054,7.485-21.951,18.014-23.516c0.975-0.145,1.773-0.85,2.04-1.799l2.301-8.23    c0.194-0.696,0.079-1.441-0.318-2.045c-0.396-0.604-1.034-1.007-1.75-1.105c-0.776-0.106-1.568-0.16-2.354-0.16    c-12.637,0-25.152,13.19-30.434,32.076c-3.099,11.08-4.008,27.738,3.629,38.225c4.272,5.866,10.507,9,18.528,9.312    c0.033,0.001,0.065,0.002,0.099,0.002c9.897,0,18.675-6.666,21.345-16.209C96.098,65.559,95.376,59.575,92.471,54.413z"></path>
-    </g>
-</g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-</svg>
-                                    </div>
-                                    <div class="testimonial_word">
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the industry.Lorem Ipsum is simply dummy text of the printing.Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-                                    </div>
-                                    <div class="name">
-                                        <span class="person">Alice Wins</span><span class="line"></span><span class="job">Designer</span>
-                                    </div>
-                                    <div class="mini_person">
-                                        <img src="./Medina HTML 5 Template_files/2.jpg" alt="" draggable="false">
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-                            <div class="persons_wrap">
-                                <div class="image third"><div class="overlay"></div></div>
-                                <div class="definition">
-                                    <div class="quote">
-                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="95.333px" height="95.332px" viewBox="0 0 95.333 95.332" style="enable-background:new 0 0 95.333 95.332;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <g>
-        <path d="M30.512,43.939c-2.348-0.676-4.696-1.019-6.98-1.019c-3.527,0-6.47,0.806-8.752,1.793    c2.2-8.054,7.485-21.951,18.013-23.516c0.975-0.145,1.774-0.85,2.04-1.799l2.301-8.23c0.194-0.696,0.079-1.441-0.318-2.045    s-1.035-1.007-1.75-1.105c-0.777-0.106-1.569-0.16-2.354-0.16c-12.637,0-25.152,13.19-30.433,32.076    c-3.1,11.08-4.009,27.738,3.627,38.223c4.273,5.867,10.507,9,18.529,9.313c0.033,0.001,0.065,0.002,0.098,0.002    c9.898,0,18.675-6.666,21.345-16.209c1.595-5.705,0.874-11.688-2.032-16.851C40.971,49.307,36.236,45.586,30.512,43.939z"></path>
-        <path d="M92.471,54.413c-2.875-5.106-7.61-8.827-13.334-10.474c-2.348-0.676-4.696-1.019-6.979-1.019    c-3.527,0-6.471,0.806-8.753,1.793c2.2-8.054,7.485-21.951,18.014-23.516c0.975-0.145,1.773-0.85,2.04-1.799l2.301-8.23    c0.194-0.696,0.079-1.441-0.318-2.045c-0.396-0.604-1.034-1.007-1.75-1.105c-0.776-0.106-1.568-0.16-2.354-0.16    c-12.637,0-25.152,13.19-30.434,32.076c-3.099,11.08-4.008,27.738,3.629,38.225c4.272,5.866,10.507,9,18.528,9.312    c0.033,0.001,0.065,0.002,0.099,0.002c9.897,0,18.675-6.666,21.345-16.209C96.098,65.559,95.376,59.575,92.471,54.413z"></path>
-    </g>
-</g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-                                            <g>
-                                            </g>
-</svg>
-                                    </div>
-                                    <div class="testimonial_word">
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the industry.Lorem Ipsum is simply dummy text of the printing.Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-                                    </div>
-                                    <div class="name">
-                                        <span class="person">Mark Doe</span><span class="line"></span><span class="job">CEO Founder</span>
-                                    </div>
-                                    <div class="mini_person">
-                                        <img src="./Medina HTML 5 Template_files/3.jpg" alt="" draggable="false">
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                    <ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><div class="myflex-text">Previous</div><div class="myflex-nav prev"></div></a></li><li class="flex-nav-next"><a class="flex-next" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><div class="myflex-text">Next</div><div class="myflex-nav next"></div></a></li></ul></div>
-            </div>
-        </div>
-        <!-- /TESTIMONIAL -->
-
-        <!-- TEAM -->
-        <div class="medina_tm_section">
-            <div class="medina_tm_list_wrap section_team" data-column="3" data-space="20">
-                <div class="medina_tm_title_holder">
-                    <span class="title_section">Our creative team</span>
-                    <span class="line"></span>
-                </div>
-                <div class="container">
-                    <ul class="macro_list another_animation">
-                        <li class="list_li animated slideInUp">
-                            <div class="list_in">
-                                <div class="inner">
-                                    <div class="list_image">
-                                        <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="./Medina HTML 5 Template_files/2(1).jpg" alt=""></a>
-                                    </div>
-                                    <div class="overlay_image"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"></a></div>
-                                </div>
-                                <div class="medina_tm_team_author_definition">
-                                    <div class="team_information">
-                                        <span class="name"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Alex Sezzar</a></span>
-                                        <span class="job">Ceo Founder</span>
-                                    </div>
-                                    <div class="social_icons">
-                                        <ul>
-                                            <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-facebook"></i></a></li>
-                                            <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-twitter"></i></a></li>
-                                            <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-instagram"></i></a></li>
-                                            <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-behance"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="list_li animated slideInUp">
-                            <div class="list_in">
-                                <div class="inner">
-                                    <div class="list_image">
-                                        <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="./Medina HTML 5 Template_files/3(1).jpg" alt=""></a>
-                                    </div>
-                                    <div class="overlay_image"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"></a></div>
-                                </div>
-                                <div class="medina_tm_team_author_definition">
-                                    <div class="team_information">
-                                        <span class="name"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Alice Willa</a></span>
-                                        <span class="job">Model</span>
-                                    </div>
-                                    <div class="social_icons">
-                                        <ul>
-                                            <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-facebook"></i></a></li>
-                                            <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-twitter"></i></a></li>
-                                            <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-instagram"></i></a></li>
-                                            <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-behance"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="list_li animated slideInUp">
-                            <div class="list_in">
-                                <div class="inner">
-                                    <div class="list_image">
-                                        <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="./Medina HTML 5 Template_files/1(1).jpg" alt=""></a>
-                                    </div>
-                                    <div class="overlay_image"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"></a></div>
-                                </div>
-                                <div class="medina_tm_team_author_definition">
-                                    <div class="team_information">
-                                        <span class="name"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Xuan Alden</a></span>
-                                        <span class="job">Manager Company</span>
-                                    </div>
-                                    <div class="social_icons">
-                                        <ul>
-                                            <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-facebook"></i></a></li>
-                                            <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-twitter"></i></a></li>
-                                            <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-instagram"></i></a></li>
-                                            <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-behance"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <!-- /TEAM -->
 
         <!-- COUNTER -->
-        <div class="medina_tm_section" id="services">
-            <div class="medina_tm_title_holder services">
-                <span class="title_section">Our amazing services</span>
-                <span class="title_definition">Lorem Ipsum is simply dummy text of the super printing.</span>
+        <div class="medina_tm_section" id="team">
+            <div class="medina_tm_title_holder">
+                <span class="title_section">Our Amazing Team</span>
+                <span class="title_definition">Meet The People That Make Wine Wednesday Happen.</span>
                 <span class="line"></span>
             </div>
-            <div class="medina_tm_counter_wrapper_all">
-                <div class="medina_tm_jarallax_inner_bg">
-                    <div class="overlay_image jarallax" data-speed=".22" data-jarallax-original-styles="null" style="background-image: none; background-attachment: scroll; background-size: auto;"><div id="jarallax-container-0" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; pointer-events: none; visibility: hidden; z-index: -100;"><div style="background-position: 50% 50%; background-size: 100%; background-repeat: no-repeat; background-image: url(&quot;http://frenify.com/envato/marketify/html/medina/1//img/slider/7.jpg&quot;); position: fixed; top: 0px; left: 0px; width: 1680px; height: 945px; overflow: hidden; pointer-events: none; margin-left: 0px; margin-top: -39.5px; visibility: visible; transform: translate3d(0px, 18.9544px, 0px);"></div></div></div>
-                    <div class="overlay_color"></div>
-                </div>
-                <div class="medina_tm_jarallax_inner_content">
-                    <div class="container">
-                        <div class="medina_tm_counter_wrap" data-col="4" data-delay="300">
-                            <ul class="medina_tm_counter_list">
-                                <li>
-                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="510px" height="510px" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <g id="favorite">
-        <path d="M255,489.6l-35.7-35.7C86.7,336.6,0,257.55,0,160.65C0,81.6,61.2,20.4,140.25,20.4c43.35,0,86.7,20.4,114.75,53.55    C283.05,40.8,326.4,20.4,369.75,20.4C448.8,20.4,510,81.6,510,160.65c0,96.9-86.7,175.95-219.3,293.25L255,489.6z"></path>
-    </g>
-</g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-</svg>
-                                    <h3 class="medina_tm_counter stop" data-from="2000" data-to="2222" data-speed="1500">2,222</h3>
-                                    <span>Happy clients</span>
-                                </li>
-                                <li>
-                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 329.013 329.013" style="enable-background:new 0 0 329.013 329.013;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M112.739,113.054c1.027,0.7,2.232,1.07,3.486,1.07h0.015c3.424,0,6.209-2.784,6.209-6.206c0-0.594-0.083-1.179-0.247-1.746   c-3.575-15.656-1.881-28.265,5.034-37.478c8.149-10.857,11.758-24.788,9.655-37.264c-1.857-11.056-7.801-20.246-17.184-26.571   c-2.077-1.405-4.932-1.394-7.003,0.031c-2.112,1.456-3.103,4.014-2.521,6.531c3.86,16.472,0.35,26.907-8.453,42.743   c-5.482,9.86-7.721,20.937-6.305,31.189C97.029,96.947,103.025,106.532,112.739,113.054z"></path>
-    <path d="M163.669,110.396c0.972,0.666,2.108,1.018,3.285,1.018h0.008c3.221,0,5.842-2.622,5.842-5.844   c0-0.547-0.076-1.088-0.228-1.614c-2.711-11.915-1.443-21.478,3.768-28.423c6.525-8.689,9.414-19.853,7.728-29.861   c-1.497-8.906-6.286-16.311-13.847-21.411c-1.946-1.314-4.581-1.334-6.599,0.04c-1.965,1.363-2.908,3.84-2.354,6.134   c2.942,12.548,0.247,20.534-6.505,32.676c-4.387,7.891-6.176,16.761-5.039,24.974C151.018,97.427,155.851,105.151,163.669,110.396z   "></path>
-    <path d="M323.73,148.029c-3.87-4.556-9.403-7.065-15.581-7.065h-28.652c0.298-4.912-0.606-11.039-4.108-15.162   c-2.589-3.048-6.278-4.659-10.669-4.659H16.389c-6.5,0-10.245,2.799-12.241,5.147c-4.089,4.808-4.652,12.008-3.817,17.143   c6.84,42.023,21.617,80.197,41.611,107.489c14.797,20.199,32.133,34.593,51.817,43.11H24.588c-8.593,0-15.583,6.991-15.583,15.583   s6.991,15.583,15.583,15.583h230.381c8.593,0,15.584-6.991,15.584-15.583s-6.991-15.583-15.584-15.583h-68.806   c16.21-6.979,30.778-17.913,43.604-32.749c21.998-1.884,44.091-12.389,62.912-30.063c19.245-18.071,32.363-41.139,35.993-63.286   C329.127,165.163,330.112,155.541,323.73,148.029z M255.23,222.011c8.363-17.15,14.22-34.841,18.313-51.047h23.638   C291.181,190.207,275.035,210.463,255.23,222.011z"></path>
-</g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-</svg>
-                                    <h3 class="medina_tm_counter stop" data-from="0" data-to="444" data-speed="3000">444</h3>
-                                    <span>Cups of Coffee</span>
-                                </li>
-                                <li>
-                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="474.8px" height="474.801px" viewBox="0 0 474.8 474.801" style="enable-background:new 0 0 474.8 474.801;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <g>
-        <path d="M396.283,257.097c-1.14-0.575-2.282-0.862-3.433-0.862c-2.478,0-4.661,0.951-6.563,2.857l-18.274,18.271    c-1.708,1.715-2.566,3.806-2.566,6.283v72.513c0,12.565-4.463,23.314-13.415,32.264c-8.945,8.945-19.701,13.418-32.264,13.418    H82.226c-12.564,0-23.319-4.473-32.264-13.418c-8.947-8.949-13.418-19.698-13.418-32.264V118.622    c0-12.562,4.471-23.316,13.418-32.264c8.945-8.946,19.7-13.418,32.264-13.418H319.77c4.188,0,8.47,0.571,12.847,1.714    c1.143,0.378,1.999,0.571,2.563,0.571c2.478,0,4.668-0.949,6.57-2.852l13.99-13.99c2.282-2.281,3.142-5.043,2.566-8.276    c-0.571-3.046-2.286-5.236-5.141-6.567c-10.272-4.752-21.412-7.139-33.403-7.139H82.226c-22.65,0-42.018,8.042-58.102,24.126    C8.042,76.613,0,95.978,0,118.629v237.543c0,22.647,8.042,42.014,24.125,58.098c16.084,16.088,35.452,24.13,58.102,24.13h237.541    c22.647,0,42.017-8.042,58.101-24.13c16.085-16.084,24.134-35.45,24.134-58.098v-90.797    C402.001,261.381,400.088,258.623,396.283,257.097z"></path>
-        <path d="M467.95,93.216l-31.409-31.409c-4.568-4.567-9.996-6.851-16.279-6.851c-6.275,0-11.707,2.284-16.271,6.851    L219.265,246.532l-75.084-75.089c-4.569-4.57-9.995-6.851-16.274-6.851c-6.28,0-11.704,2.281-16.274,6.851l-31.405,31.405    c-4.568,4.568-6.854,9.994-6.854,16.277c0,6.28,2.286,11.704,6.854,16.274l122.767,122.767c4.569,4.571,9.995,6.851,16.274,6.851    c6.279,0,11.704-2.279,16.274-6.851l232.404-232.403c4.565-4.567,6.854-9.994,6.854-16.274S472.518,97.783,467.95,93.216z"></path>
-    </g>
-</g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-</svg>
-                                    <h3 class="medina_tm_counter stop" data-from="0" data-to="777" data-speed="3000">777</h3>
-                                    <span>Project completed</span>
-                                </li>
-                                <li>
-                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 23.382 23.382" style="enable-background:new 0 0 23.382 23.382;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M14.58,15.181c0.438-0.732,1.082-1.107,1.936-1.117c0.854-0.01,1.285-0.445,1.299-1.301   c0.012-0.852,0.383-1.496,1.115-1.932c0.734-0.438,0.893-1.027,0.475-1.773c-0.416-0.744-0.416-1.488,0-2.234   c0.418-0.744,0.26-1.332-0.475-1.77c-0.732-0.439-1.104-1.082-1.115-1.938c-0.014-0.852-0.445-1.287-1.299-1.297   c-0.854-0.012-1.498-0.385-1.936-1.117c-0.438-0.734-1.027-0.893-1.771-0.475c-0.744,0.416-1.49,0.416-2.234,0   C9.83-0.19,9.241-0.032,8.803,0.702C8.366,1.435,7.721,1.808,6.868,1.819c-0.852,0.01-1.285,0.445-1.297,1.297   C5.557,3.972,5.186,4.614,4.454,5.054C3.72,5.492,3.559,6.079,3.979,6.824c0.418,0.746,0.418,1.49,0,2.234   c-0.42,0.746-0.26,1.336,0.475,1.773c0.732,0.436,1.104,1.08,1.117,1.932c0.012,0.855,0.445,1.291,1.297,1.301   c0.854,0.01,1.498,0.385,1.936,1.117c0.438,0.734,1.027,0.893,1.771,0.473c0.744-0.412,1.49-0.412,2.234,0   C13.553,16.073,14.143,15.915,14.58,15.181z M11.694,12.614c-2.582,0-4.674-2.092-4.674-4.674c0-2.58,2.092-4.672,4.674-4.672   c2.58,0,4.672,2.092,4.672,4.672C16.366,10.522,14.274,12.614,11.694,12.614z"></path>
-    <path d="M6.793,14.749c-0.898,0-1.018-0.418-1.018-0.418l-3.507,6.893l2.812-0.316l1.555,2.34c0,0,3.24-6.76,3.24-6.715   C8.196,16.491,8.864,14.794,6.793,14.749z"></path>
-    <path d="M17.563,14.601c-2.562,0.268-2.041,0.904-2.627,1.398c-0.674,0.719-1.516,0.578-1.516,0.578l3.955,6.805l0.973-2.52   l2.766,0.361L17.563,14.601z"></path>
-    <polygon points="12.67,6.909 11.692,4.929 10.713,6.909 8.524,7.229 10.106,8.772 9.733,10.954 11.692,9.925 13.651,10.954    13.278,8.772 14.86,7.229  "></polygon>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-</g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-</svg>
-                                    <h3 class="medina_tm_counter stop" data-from="0" data-to="99" data-speed="3000">99</h3>
-                                    <span>Awards received</span>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /COUNTER -->
 
-        <!-- SERVICES -->
-        <div class="medina_tm_section">
-            <div class="medina_tm_services_wrap">
-                <div class="container">
-                    <div class="medina_tm_list_service_wrap">
-                        <ul class="medina_tm_miniboxes">
-                            <li class="medina_tm_minibox" style="height: 322px;">
+                <div class="medina_tm_list_wrap section_team" data-column="3" data-space="20">
+                    <div class="container">
+                        <ul class="macro_list another_animation">
+                            <li class="list_li animated slideInUp">
                                 <div class="list_in">
-                                    <div class="medina_tm_icon_box">
-                                        <div class="svg_icon">
-											<span><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 28.406 28.406" style="enable-background:new 0 0 28.406 28.406;" xml:space="preserve" class="svg replaced-svg">
-<g>
-	<g>
-		<circle cx="13.679" cy="24.632" r="2.146"></circle>
-		<circle cx="22.271" cy="24.632" r="2.146"></circle>
-		<path d="M27.931,6.281c-0.47-0.472-1.395-0.457-1.395-0.457H7.648L7.024,3.221c-0.223-0.933-1.059-1.593-2.02-1.593H0l0.969,2.079    l3.052-0.01c0.693-0.002,1.292,0.485,1.433,1.165l2.783,13.395c0.326,1.572,1.71,2.702,3.315,2.702c3.995,0,11.053,0,12.259,0    c1.697,0,1.802-1.87,1.802-1.87s-9.963,0-13.512,0c-0.698,0-1.514,0.097-2.032-1.915c-0.192-0.745-0.641-3.006-0.641-3.006    l16.921-0.022c0.744-0.026,1.377-0.589,1.462-1.352l0.578-5.264C28.44,7.046,28.403,6.75,27.931,6.281z M25.935,12.038H8.975    L8.155,8.21h18.196L25.935,12.038z"></path>
-	</g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-</svg></span>
+                                    <div class="inner">
+                                        <div class="list_image">
+                                            <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="{{ asset('assets/images/2(1).jpg') }}" alt=""></a>
+                                        </div>
+                                        <div class="overlay_image"><a href="#"></a></div>
+                                    </div>
+                                    <div class="medina_tm_team_author_definition">
+                                        <div class="team_information">
+                                            <span class="name"><a href="#">Alex Sezzar</a></span>
+                                            <span class="job">Ceo Founder</span>
+                                        </div>
+                                        <div class="social_icons">
+                                            <ul>
+                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-facebook"></i></a></li>
+                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-twitter"></i></a></li>
+                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-instagram"></i></a></li>
+                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-behance"></i></a></li>
+                                            </ul>
                                         </div>
                                     </div>
-                                    <span class="box_title">Shopping</span>
-                                    <p>Photography allows one to capture the world around them with shutter.</p>
                                 </div>
                             </li>
-                            <li class="medina_tm_minibox" style="height: 322px;">
+                            <li class="list_li animated slideInUp">
                                 <div class="list_in">
-                                    <div class="medina_tm_icon_box">
-                                        <div class="svg_icon">
-											<span><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 487.7 487.7" style="enable-background:new 0 0 487.7 487.7;" xml:space="preserve" class="svg replaced-svg">
-		<path d="M480.5,151.65c-2-1.1-48.8-25.4-126.8-40.1l-3-12.8c-7.8-33.5-37.3-57-71.8-57h-70.1c-34.4,0-63.9,23.4-71.8,57l-3,12.8    c-78,14.6-124.8,39-126.8,40.1c-4.4,2.3-7.2,6.9-7.2,11.9v159c0,63.7,51.8,115.6,115.6,115.6c7.5,0,13.5-6,13.5-13.5    s-6-13.5-13.5-13.5c-48.8,0-88.6-39.7-88.6-88.6v-150.5c16.2-7.4,59-24.9,120.5-35.5c5.3-0.9,9.6-5,10.8-10.2l5-21.5    c5-21.2,23.6-36.1,45.5-36.1h70.1c21.8,0,40.5,14.8,45.5,36.1l5,21.5c1.2,5.3,5.5,9.3,10.8,10.2c61.3,10.6,104.2,28.1,120.5,35.5    v150.5c0,48.8-39.7,88.6-88.6,88.6c-7.5,0-13.5,6-13.5,13.5s6,13.5,13.5,13.5c63.7,0,115.6-51.8,115.6-115.6v-159    C487.7,158.55,485,153.95,480.5,151.65z"></path>
-		<path d="M44.2,124.05c1.4,0,2.8-0.2,4.2-0.7c14.2-4.7,29.1-8.9,44.3-12.5c7.3-1.7,11.7-9,10-16.2c-1.7-7.3-9-11.7-16.2-10    c-15.9,3.8-31.6,8.2-46.6,13.1c-7.1,2.3-10.9,10-8.6,17C33.3,120.45,38.6,124.05,44.2,124.05z"></path>
-		<path d="M243.9,135.05c-85.7,0-155.4,69.7-155.4,155.4s69.7,155.5,155.4,155.5s155.4-69.7,155.4-155.4S329.6,135.05,243.9,135.05z     M243.9,418.95c-70.8,0-128.4-57.6-128.4-128.4s57.6-128.5,128.4-128.5s128.4,57.6,128.4,128.4S314.7,418.95,243.9,418.95z"></path>
-</svg></span>
+                                    <div class="inner">
+                                        <div class="list_image">
+                                            <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="{{ asset('assets/images/3(1).jpg') }}" alt=""></a>
+                                        </div>
+                                        <div class="overlay_image"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"></a></div>
+                                    </div>
+                                    <div class="medina_tm_team_author_definition">
+                                        <div class="team_information">
+                                            <span class="name"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Alice Willa</a></span>
+                                            <span class="job">Model</span>
+                                        </div>
+                                        <div class="social_icons">
+                                            <ul>
+                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-facebook"></i></a></li>
+                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-twitter"></i></a></li>
+                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-instagram"></i></a></li>
+                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-behance"></i></a></li>
+                                            </ul>
                                         </div>
                                     </div>
-                                    <span class="box_title">Beauty pictures</span>
-                                    <p>Photography allows one to capture the world around them with shutter.</p>
                                 </div>
                             </li>
-                            <li class="medina_tm_minibox" style="height: 322px;">
+                            <li class="list_li animated slideInUp">
                                 <div class="list_in">
-                                    <div class="medina_tm_icon_box">
-                                        <div class="svg_icon">
-											<span><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 481.381 481.381" style="enable-background:new 0 0 481.381 481.381;" xml:space="preserve" class="svg replaced-svg">
-		<path d="M194.544,155.667c0,6.6,5.4,12,12,12s12-5.4,12-12s-5.4-12-12-12S194.544,149.067,194.544,155.667z"></path>
-		<path d="M248.644,167.667c6.6,0,12-5.4,12-12s-5.4-12-12-12s-12,5.4-12,12S241.944,167.667,248.644,167.667z"></path>
-		<path d="M290.644,167.667c6.6,0,12-5.4,12-12s-5.4-12-12-12s-12,5.4-12,12S283.944,167.667,290.644,167.667z"></path>
-		<path d="M455.644,231.667c-23.3-25.4-58.2-36.5-91.5-29.9l-28.2-84.8h47.5c8.6,0,15.6,7,15.6,15.6s-7,15.6-15.6,15.6    c-6.6,0-12,5.4-12,12s5.4,12,12,12c21.9,0,39.6-17.8,39.6-39.6s-17.8-39.6-39.6-39.6h-64.2c-3.9,0-7.5,1.9-9.7,5    s-2.9,7.1-1.7,10.8l18.2,54.6l-83.4,93.8c-1.7-0.2-3.5-0.4-5.3-0.4c-4.4,0-8.6,0.7-12.5,2l-50.4-105.6v-32.8l15.8,3.9    c1,0.2,1.9,0.3,2.8,0.3c5.4,0,10.3-3.7,11.6-9.2c1.6-6.4-2.4-12.9-8.8-14.5l-61.2-14.9c-6.4-1.6-12.9,2.4-14.5,8.8    s2.4,12.9,8.8,14.5l21.5,5.2v38.9l-58.8,139.8c-1.6,3.7-1.2,7.9,1.1,11.3c2.2,3.3,6,5.4,10,5.4h68.1    c-2.6,15.9-10.3,30.5-22.2,41.8c-14.4,13.5-33.2,20.7-52.9,20.1s-38.1-8.8-51.6-23.2c-13.5-14.4-20.7-33.2-20.1-52.9    c1.2-40,34.1-71.7,73.8-71.7c0.7,0,1.5,0,2.2,0c6.6,0.2,12.2-5,12.4-11.6c0.2-6.6-5-12.2-11.6-12.4c-54-1.6-99.2,41-100.8,95    s41,99.2,95,100.8c1,0,2,0,3,0c25,0,48.8-9.4,67.1-26.7c16.8-15.8,27.3-36.6,30-59.3h3.2c5.1,16.8,20.8,29,39.2,29    c22.6,0,41-18.4,41-41c0-11.8-5-22.4-13-29.9l69.6-78.1l37.2,111.8c1.7,5,6.4,8.2,11.4,8.2c1.3,0,2.5-0.2,3.8-0.6    c6.3-2.1,9.7-8.9,7.6-15.2l-23-69.2c24.2-3.8,49.3,4.6,66.2,23.1c27.5,30.1,25.5,76.9-4.6,104.4s-76.9,25.5-104.4-4.6    s-25.5-76.9,4.6-104.4c4.9-4.5,5.2-12.1,0.7-17s-12.1-5.2-17-0.7c-19.3,17.7-30.5,41.8-31.7,67.9s7.9,51.1,25.6,70.4    c19.3,21.1,45.7,31.7,72.3,31.7c23.6,0,47.3-8.5,66.1-25.7C489.444,333.567,492.144,271.467,455.644,231.667z M120.744,285.767    l20.2-48c15.9,11.4,26.6,28.8,29.8,48H120.744z M198.144,285.767h-3.2c-3.6-28.9-19.9-54.8-44.5-70.6l12.7-30.1l41.8,87.6    C201.944,276.667,199.644,281.067,198.144,285.767z M237.344,314.767c-9.4,0-17-7.6-17-17s7.6-17,17-17c9.4,0,17,7.6,17,17    S246.644,314.767,237.344,314.767z"></path>
-</svg></span>
+                                    <div class="inner">
+                                        <div class="list_image">
+                                            <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="{{ asset('assets/images/1(1).jpg') }}" alt=""></a>
+                                        </div>
+                                        <div class="overlay_image"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"></a></div>
+                                    </div>
+                                    <div class="medina_tm_team_author_definition">
+                                        <div class="team_information">
+                                            <span class="name"><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Xuan Alden</a></span>
+                                            <span class="job">Manager Company</span>
+                                        </div>
+                                        <div class="social_icons">
+                                            <ul>
+                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-facebook"></i></a></li>
+                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-twitter"></i></a></li>
+                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-instagram"></i></a></li>
+                                                <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-behance"></i></a></li>
+                                            </ul>
                                         </div>
                                     </div>
-                                    <span class="box_title">Traveling by bicycle</span>
-                                    <p>Photography allows one to capture the world around them with shutter.</p>
-                                </div>
-                            </li>
-                            <li class="medina_tm_minibox" style="height: 322px;">
-                                <div class="list_in">
-                                    <div class="medina_tm_icon_box">
-                                        <div class="svg_icon">
-											<span><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 473.806 473.806" style="enable-background:new 0 0 473.806 473.806;" xml:space="preserve" class="svg replaced-svg">
-		<path d="M374.456,293.506c-9.7-10.1-21.4-15.5-33.8-15.5c-12.3,0-24.1,5.3-34.2,15.4l-31.6,31.5c-2.6-1.4-5.2-2.7-7.7-4    c-3.6-1.8-7-3.5-9.9-5.3c-29.6-18.8-56.5-43.3-82.3-75c-12.5-15.8-20.9-29.1-27-42.6c8.2-7.5,15.8-15.3,23.2-22.8    c2.8-2.8,5.6-5.7,8.4-8.5c21-21,21-48.2,0-69.2l-27.3-27.3c-3.1-3.1-6.3-6.3-9.3-9.5c-6-6.2-12.3-12.6-18.8-18.6    c-9.7-9.6-21.3-14.7-33.5-14.7s-24,5.1-34,14.7c-0.1,0.1-0.1,0.1-0.2,0.2l-34,34.3c-12.8,12.8-20.1,28.4-21.7,46.5    c-2.4,29.2,6.2,56.4,12.8,74.2c16.2,43.7,40.4,84.2,76.5,127.6c43.8,52.3,96.5,93.6,156.7,122.7c23,10.9,53.7,23.8,88,26    c2.1,0.1,4.3,0.2,6.3,0.2c23.1,0,42.5-8.3,57.7-24.8c0.1-0.2,0.3-0.3,0.4-0.5c5.2-6.3,11.2-12,17.5-18.1c4.3-4.1,8.7-8.4,13-12.9    c9.9-10.3,15.1-22.3,15.1-34.6c0-12.4-5.3-24.3-15.4-34.3L374.456,293.506z M410.256,398.806    C410.156,398.806,410.156,398.906,410.256,398.806c-3.9,4.2-7.9,8-12.2,12.2c-6.5,6.2-13.1,12.7-19.3,20    c-10.1,10.8-22,15.9-37.6,15.9c-1.5,0-3.1,0-4.6-0.1c-29.7-1.9-57.3-13.5-78-23.4c-56.6-27.4-106.3-66.3-147.6-115.6    c-34.1-41.1-56.9-79.1-72-119.9c-9.3-24.9-12.7-44.3-11.2-62.6c1-11.7,5.5-21.4,13.8-29.7l34.1-34.1c4.9-4.6,10.1-7.1,15.2-7.1    c6.3,0,11.4,3.8,14.6,7c0.1,0.1,0.2,0.2,0.3,0.3c6.1,5.7,11.9,11.6,18,17.9c3.1,3.2,6.3,6.4,9.5,9.7l27.3,27.3    c10.6,10.6,10.6,20.4,0,31c-2.9,2.9-5.7,5.8-8.6,8.6c-8.4,8.6-16.4,16.6-25.1,24.4c-0.2,0.2-0.4,0.3-0.5,0.5    c-8.6,8.6-7,17-5.2,22.7c0.1,0.3,0.2,0.6,0.3,0.9c7.1,17.2,17.1,33.4,32.3,52.7l0.1,0.1c27.6,34,56.7,60.5,88.8,80.8    c4.1,2.6,8.3,4.7,12.3,6.7c3.6,1.8,7,3.5,9.9,5.3c0.4,0.2,0.8,0.5,1.2,0.7c3.4,1.7,6.6,2.5,9.9,2.5c8.3,0,13.5-5.2,15.2-6.9    l34.2-34.2c3.4-3.4,8.8-7.5,15.1-7.5c6.2,0,11.3,3.9,14.4,7.3c0.1,0.1,0.1,0.1,0.2,0.2l55.1,55.1    C420.456,377.706,420.456,388.206,410.256,398.806z"></path>
-		<path d="M256.056,112.706c26.2,4.4,50,16.8,69,35.8s31.3,42.8,35.8,69c1.1,6.6,6.8,11.2,13.3,11.2c0.8,0,1.5-0.1,2.3-0.2    c7.4-1.2,12.3-8.2,11.1-15.6c-5.4-31.7-20.4-60.6-43.3-83.5s-51.8-37.9-83.5-43.3c-7.4-1.2-14.3,3.7-15.6,11    S248.656,111.506,256.056,112.706z"></path>
-		<path d="M473.256,209.006c-8.9-52.2-33.5-99.7-71.3-137.5s-85.3-62.4-137.5-71.3c-7.3-1.3-14.2,3.7-15.5,11    c-1.2,7.4,3.7,14.3,11.1,15.6c46.6,7.9,89.1,30,122.9,63.7c33.8,33.8,55.8,76.3,63.7,122.9c1.1,6.6,6.8,11.2,13.3,11.2    c0.8,0,1.5-0.1,2.3-0.2C469.556,223.306,474.556,216.306,473.256,209.006z"></path>
-</svg></span>
-                                        </div>
-                                    </div>
-                                    <span class="box_title">A free call</span>
-                                    <p>Photography allows one to capture the world around them with shutter.</p>
-                                </div>
-                            </li>
-                            <li class="medina_tm_minibox" style="height: 322px;">
-                                <div class="list_in">
-                                    <div class="medina_tm_icon_box">
-                                        <div class="svg_icon">
-											<span><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 297.001 297.001" style="enable-background:new 0 0 297.001 297.001;" xml:space="preserve" class="svg replaced-svg">
-		<path d="M287.034,60.873l-20.819-0.001V39.321c0-4.934-3.61-9.126-8.49-9.856c-0.852-0.128-21.134-3.074-45.557,1.37    c-27.227,4.954-48.941,17.171-63.668,35.64c-14.728-18.469-36.442-30.686-63.668-35.64c-24.424-4.443-44.706-1.498-45.557-1.37    c-4.88,0.731-8.49,4.923-8.49,9.856v21.551H9.966C4.463,60.872,0,65.335,0,70.839v187.805c0,3.227,1.562,6.254,4.193,8.124    s6.004,2.35,9.051,1.288c0.748-0.259,75.431-25.747,131.12-0.345c2.628,1.199,5.645,1.199,8.273,0    c55.533-25.33,130.376,0.088,131.12,0.345c1.068,0.372,2.174,0.555,3.276,0.555c2.043,0,4.065-0.628,5.775-1.842    c2.631-1.87,4.193-4.897,4.193-8.124V70.84C297,65.336,292.538,60.873,287.034,60.873z M19.933,245.309V80.805h10.852v132.726    c0,2.896,1.267,5.646,3.458,7.539c2.191,1.893,5.105,2.742,7.969,2.319c0.55-0.08,43.846-6.024,75.478,15.679    C78.725,232.405,39.727,240.112,19.933,245.309z M138.534,230.08c-13.932-12.588-32.079-21.1-53.702-25.034    c-10.406-1.894-20.06-2.446-27.78-2.446c-2.292,0-4.414,0.049-6.333,0.126V48.473h-0.001c19.155-0.864,65.752,1.184,87.816,38.587    V230.08z M158.466,87.061c21.985-37.243,68.655-39.384,87.816-38.563v154.228c-8.383-0.338-20.62-0.136-34.114,2.32    c-21.623,3.934-39.77,12.445-53.702,25.034V87.061z M179.277,239.074c31.636-21.716,74.955-15.766,75.495-15.686    c2.871,0.431,5.783-0.413,7.981-2.305c2.198-1.894,3.462-4.65,3.462-7.552V80.806h10.852v164.503    C257.267,240.11,218.253,232.4,179.277,239.074z"></path>
-</svg></span>
-                                        </div>
-                                    </div>
-                                    <span class="box_title">Big library</span>
-                                    <p>Photography allows one to capture the world around them with shutter.</p>
-                                </div>
-                            </li>
-                            <li class="medina_tm_minibox" style="height: 322px;">
-                                <div class="list_in">
-                                    <div class="medina_tm_icon_box">
-                                        <div class="svg_icon">
-											<span><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 242.041 242.041" style="enable-background:new 0 0 242.041 242.041;" xml:space="preserve" class="svg replaced-svg">
-<g>
-	<path d="M239.506,66.581c-8.201-32.165-35.386-54.63-66.11-54.63c-20.208,0-38.49,9.711-52.394,27.59   c-13.896-17.881-32.17-27.59-52.373-27.59c-30.712,0-57.89,22.464-66.092,54.628c-4.389,17.211-5.242,44.71,15.619,77.978   c19.272,30.734,52.666,59.203,99.251,84.616c1.12,0.61,2.355,0.916,3.592,0.916c1.236,0,2.472-0.306,3.591-0.916   c46.599-25.414,80.002-53.883,99.282-84.616C244.743,111.289,243.893,83.79,239.506,66.581z M121,214.025   C6.852,150.416,12.546,88.032,17.072,70.286c6.507-25.515,27.708-43.335,51.558-43.335c18.033,0,34.354,10.552,45.955,29.71   c1.359,2.244,3.791,3.615,6.414,3.615c0,0,0.001,0,0.001,0c2.623,0,5.055-1.37,6.414-3.613   c11.611-19.16,27.942-29.712,45.982-29.712c23.861,0,45.069,17.82,51.575,43.335C229.495,88.031,235.181,150.411,121,214.025z"></path>
-	<path d="M195.118,121.907h-33.705l-12.538-46.403c-0.884-3.272-3.852-5.544-7.24-5.544c-0.001,0-0.003,0-0.005,0   c-3.391,0.002-6.358,2.279-7.238,5.554l-17.243,64.179L99.906,75.514c-0.872-3.246-3.797-5.515-7.158-5.554   c-0.028,0-0.057,0-0.086,0c-3.325,0-6.258,2.192-7.196,5.39l-8.728,29.771H42.904c-4.142,0-7.5,3.357-7.5,7.5s3.358,7.5,7.5,7.5   h39.451c3.33,0,6.26-2.195,7.197-5.39l2.796-9.538l17.558,65.351c0.88,3.276,3.851,5.554,7.243,5.554   c3.393,0,6.363-2.277,7.243-5.554l17.263-64.254l6.775,25.074c0.884,3.271,3.851,5.544,7.24,5.544h39.447   c4.142,0,7.5-3.357,7.5-7.5C202.618,125.265,199.261,121.907,195.118,121.907z"></path>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-</svg></span>
-                                        </div>
-                                    </div>
-                                    <span class="box_title">Modern hospital</span>
-                                    <p>Photography allows one to capture the world around them with shutter.</p>
                                 </div>
                             </li>
                         </ul>
                     </div>
                 </div>
-            </div>
         </div>
-        <!-- /SERVICES -->
-
-        <!-- PRICING -->
-        <div class="medina_tm_section">
-            <div class="medina_tm_pricing_wrap">
-                <div class="medina_tm_jarallax_inner_bg">
-                    <div class="overlay_image pricing jarallax" data-speed=".22" data-jarallax-original-styles="null" style="background-image: none; background-attachment: scroll; background-size: auto;"><div id="jarallax-container-1" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; pointer-events: none; visibility: hidden; z-index: -100;"><div style="background-position: 50% 50%; background-size: 100%; background-repeat: no-repeat; background-image: url(&quot;http://frenify.com/envato/marketify/html/medina/1//img/slider/15.jpg&quot;); position: fixed; top: 0px; left: 0px; width: 1849.67px; height: 1040.44px; overflow: hidden; pointer-events: none; margin-left: -84.8356px; margin-top: -87.22px; visibility: visible; transform: translate3d(0px, 204.343px, 0px);"></div></div></div>
-                    <div class="overlay_color"></div>
-                </div>
-                <div class="medina_tm_jarallax_inner_content pricing_jar">
-                    <div class="medina_tm_title_holder">
-                        <span class="title_section">Pricing</span>
-                        <span class="line"></span>
-                    </div>
-                    <div class="container">
-                        <div class="medina_tm_list_wrap section_pricing" data-column="4" data-space="">
-                            <ul class="macro_list">
-                                <li class="list_li">
-                                    <div class="list_in">
-                                        <div class="title_holder">
-                                            <span class="title_box">Starter</span>
-                                            <span class="price">$<strong>20</strong>/month</span>
-                                            <p class="definition">Lorem Ipsum is simply dummy printing.</p>
-                                            <span class="line"></span>
-                                        </div>
-                                        <div class="pricing_specs">
-                                            <ul>
-                                                <li>
-                                                    <span><strong>3 GB</strong> disk space</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>15 GB</strong> monthly</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>1</strong> email</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>24/7</strong> support</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="357px" height="357px" viewBox="0 0 357 357" style="enable-background:new 0 0 357 357;" xml:space="preserve" class="svg black replaced-svg">
-<g>
-    <g id="close">
-        <polygon points="357,35.7 321.3,0 178.5,142.8 35.7,0 0,35.7 142.8,178.5 0,321.3 35.7,357 178.5,214.2 321.3,357 357,321.3     214.2,178.5   "></polygon>
-    </g>
-</g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>Ultimated</strong> hosting</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="357px" height="357px" viewBox="0 0 357 357" style="enable-background:new 0 0 357 357;" xml:space="preserve" class="svg black replaced-svg">
-<g>
-    <g id="close">
-        <polygon points="357,35.7 321.3,0 178.5,142.8 35.7,0 0,35.7 142.8,178.5 0,321.3 35.7,357 178.5,214.2 321.3,357 357,321.3     214.2,178.5   "></polygon>
-    </g>
-</g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>MySQL</strong> database</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="357px" height="357px" viewBox="0 0 357 357" style="enable-background:new 0 0 357 357;" xml:space="preserve" class="svg black replaced-svg">
-<g>
-    <g id="close">
-        <polygon points="357,35.7 321.3,0 178.5,142.8 35.7,0 0,35.7 142.8,178.5 0,321.3 35.7,357 178.5,214.2 321.3,357 357,321.3     214.2,178.5   "></polygon>
-    </g>
-</g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-</svg>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="medina_tm_purchase_button">
-                                            <div class="in">
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-basket"></i>Purchase</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="list_li">
-                                    <div class="list_in">
-                                        <div class="title_holder">
-                                            <span class="title_box">Medium</span>
-                                            <span class="price">$<strong>30</strong>/month</span>
-                                            <p class="definition">Lorem Ipsum is simply dummy printing.</p>
-                                            <span class="line"></span>
-                                        </div>
-                                        <div class="pricing_specs">
-                                            <ul>
-                                                <li>
-                                                    <span><strong>5 GB</strong> disk space</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>25 GB</strong> monthly</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>5</strong> email</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>24/7</strong> support</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>Ultimated</strong> hosting</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="357px" height="357px" viewBox="0 0 357 357" style="enable-background:new 0 0 357 357;" xml:space="preserve" class="svg black replaced-svg">
-<g>
-    <g id="close">
-        <polygon points="357,35.7 321.3,0 178.5,142.8 35.7,0 0,35.7 142.8,178.5 0,321.3 35.7,357 178.5,214.2 321.3,357 357,321.3     214.2,178.5   "></polygon>
-    </g>
-</g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>MySQL</strong> database</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="357px" height="357px" viewBox="0 0 357 357" style="enable-background:new 0 0 357 357;" xml:space="preserve" class="svg black replaced-svg">
-<g>
-    <g id="close">
-        <polygon points="357,35.7 321.3,0 178.5,142.8 35.7,0 0,35.7 142.8,178.5 0,321.3 35.7,357 178.5,214.2 321.3,357 357,321.3     214.2,178.5   "></polygon>
-    </g>
-</g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-</svg>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="medina_tm_purchase_button">
-                                            <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-basket"></i>Purchase</a>
-                                        </div>
-                                        <div class="featured_box"><span>Sale</span></div>
-                                    </div>
-                                </li>
-                                <li class="list_li">
-                                    <div class="list_in">
-                                        <div class="title_holder">
-                                            <span class="title_box">Developer</span>
-                                            <span class="price">$<strong>40</strong>/month</span>
-                                            <p class="definition">Lorem Ipsum is simply dummy printing.</p>
-                                            <span class="line"></span>
-                                        </div>
-                                        <div class="pricing_specs">
-                                            <ul>
-                                                <li>
-                                                    <span><strong>10 GB</strong> disk space</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>35 GB</strong> monthly</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>10</strong> email</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>24/7</strong> support</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>Ultimated</strong> hosting</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>MySQL</strong> database</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="357px" height="357px" viewBox="0 0 357 357" style="enable-background:new 0 0 357 357;" xml:space="preserve" class="svg black replaced-svg">
-<g>
-    <g id="close">
-        <polygon points="357,35.7 321.3,0 178.5,142.8 35.7,0 0,35.7 142.8,178.5 0,321.3 35.7,357 178.5,214.2 321.3,357 357,321.3     214.2,178.5   "></polygon>
-    </g>
-</g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-                                                        <g>
-                                                        </g>
-</svg>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="medina_tm_purchase_button">
-                                            <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-basket"></i>Purchase</a>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="list_li">
-                                    <div class="list_in">
-                                        <div class="title_holder">
-                                            <span class="title_box">VIP</span>
-                                            <span class="price">$<strong>77</strong>/month</span>
-                                            <p class="definition">Lorem Ipsum is simply dummy printing.</p>
-                                            <span class="line"></span>
-                                        </div>
-                                        <div class="pricing_specs">
-                                            <ul>
-                                                <li>
-                                                    <span><strong>100 GB</strong> disk space</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>500 GB</strong> monthly</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>100</strong> email</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>24/7</strong> support</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>Ultimated</strong> hosting</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                                <li>
-                                                    <span><strong>MySQL</strong> database</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="442.533px" height="442.533px" viewBox="0 0 442.533 442.533" style="enable-background:new 0 0 442.533 442.533;" xml:space="preserve" class="svg red replaced-svg">
-	<path d="M434.539,98.499l-38.828-38.828c-5.324-5.328-11.799-7.993-19.41-7.993c-7.618,0-14.093,2.665-19.417,7.993L169.59,247.248   l-83.939-84.225c-5.33-5.33-11.801-7.992-19.412-7.992c-7.616,0-14.087,2.662-19.417,7.992L7.994,201.852   C2.664,207.181,0,213.654,0,221.269c0,7.609,2.664,14.088,7.994,19.416l103.351,103.349l38.831,38.828   c5.327,5.332,11.8,7.994,19.414,7.994c7.611,0,14.084-2.669,19.414-7.994l38.83-38.828L434.539,137.33   c5.325-5.33,7.994-11.802,7.994-19.417C442.537,110.302,439.864,103.829,434.539,98.499z"></path>
-</svg>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="medina_tm_purchase_button">
-                                            <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-basket"></i>Purchase</a>
-                                        </div>
-                                        <div class="featured_box"><span>-10%</span></div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /PRICING -->
+            <!-- /TEAM -->
+        <!-- /COUNTER -->
 
         <!-- PORTFOLIO -->
         <div class="medina_tm_section" id="portfolio">
@@ -1769,10 +723,10 @@
                     <ul class="medina_tm_portfolio_list gallery_zoom">
                         <li class="people">
                             <article class="item_holder">
-                                <img class="image" src="./Medina HTML 5 Template_files/2(2).jpg" alt="">
+                                <img class="image" src="{{ asset('assets/images/2(2).jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="./Medina HTML 5 Template_files/2(2).jpg"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
+                                        <a class="zoom" href="{{ asset('assets/images/2(2).jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
 <g>
     <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
 </g>
@@ -1928,10 +882,10 @@
                         </li>
                         <li class="nature">
                             <article class="item_holder">
-                                <img class="image" src="./Medina HTML 5 Template_files/2(3).jpg" alt="">
+                                <img class="image" src="{{ asset('assets/images/2(3).jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="./Medina HTML 5 Template_files/2(3).jpg"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
+                                        <a class="zoom" href="{{ asset('assets/images/2(3).jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
 <g>
     <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
 </g>
@@ -2087,10 +1041,10 @@
                         </li>
                         <li class="animal">
                             <article class="item_holder">
-                                <img class="image" src="./Medina HTML 5 Template_files/2(4).jpg" alt="">
+                                <img class="image" src="{{ asset('assets/images/2(4).jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="./Medina HTML 5 Template_files/2(4).jpg"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
+                                        <a class="zoom" href="{{ asset('assets/images/2(4).jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
 <g>
     <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
 </g>
@@ -2246,7 +1200,7 @@
                         </li>
                         <li class="video">
                             <article class="item_holder">
-                                <img class="image" src="./Medina HTML 5 Template_files/3(2).jpg" alt="">
+                                <img class="image" src="{{ asset('assets/images/3(2).jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
                                         <a class="play popup-youtube" href="https://www.youtube.com/watch?v=LTXD6XZXc3U">
@@ -2406,10 +1360,10 @@
                         </li>
                         <li class="animal">
                             <article class="item_holder">
-                                <img class="image" src="./Medina HTML 5 Template_files/4.jpg" alt="">
+                                <img class="image" src="{{ asset('assets/images/4.jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="./Medina HTML 5 Template_files/4.jpg"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
+                                        <a class="zoom" href="{{ asset('assets/images/4.jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
 <g>
     <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
 </g>
@@ -2565,10 +1519,10 @@
                         </li>
                         <li class="animal">
                             <article class="item_holder">
-                                <img class="image" src="./Medina HTML 5 Template_files/3(3).jpg" alt="">
+                                <img class="image" src="{{ asset('assets/images/3(3).jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="./Medina HTML 5 Template_files/3(3).jpg"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
+                                        <a class="zoom" href="{{ asset('assets/images/3(3).jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
 <g>
     <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
 </g>
@@ -2724,10 +1678,10 @@
                         </li>
                         <li class="nature">
                             <article class="item_holder">
-                                <img class="image" src="./Medina HTML 5 Template_files/1(2).jpg" alt="">
+                                <img class="image" src="{{ asset('assets/images/1(2).jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="./Medina HTML 5 Template_files/1(2).jpg"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
+                                        <a class="zoom" href="{{ asset('assets/images/1(2).jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
 <g>
     <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
 </g>
@@ -2883,10 +1837,10 @@
                         </li>
                         <li class="people">
                             <article class="item_holder">
-                                <img class="image" src="./Medina HTML 5 Template_files/1(3).jpg" alt="">
+                                <img class="image" src=".{{ asset('assets/images/1(3).jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="./Medina HTML 5 Template_files/1(3).jpg"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
+                                        <a class="zoom" href="{{ asset('assets/images/1(3).jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
 <g>
     <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
 </g>
@@ -3059,7 +2013,7 @@
                         <ul class="macro_list another_animation">
                             <li class="list_li animated slideInUp">
                                 <div class="list_in">
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="./Medina HTML 5 Template_files/1(4).jpg" alt="" style=""></a>
+                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="{{ asset('assets/images/1(3).jpg') }}" alt="" style=""></a>
                                     <a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html"><div class="overlay_blog"></div></a>
                                     <div class="blog_definitions_wrap">
                                         <p class="date">07 January 2017 / By <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Marcus Doe</a></p>
@@ -3073,7 +2027,7 @@
                             </li>
                             <li class="list_li animated slideInUp">
                                 <div class="list_in">
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="./Medina HTML 5 Template_files/2(5).jpg" alt=""></a>
+                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="{{ asset('assets/images/2(5).jpg') }}" alt=""></a>
                                     <a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html"><div class="overlay_blog"></div></a>
                                     <div class="blog_definitions_wrap">
                                         <p class="date">11 February 2017 / By <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Ferry An</a></p>
@@ -3087,7 +2041,7 @@
                             </li>
                             <li class="list_li animated slideInUp">
                                 <div class="list_in">
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="./Medina HTML 5 Template_files/8.jpg" alt=""></a>
+                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="{{ asset('assets/images/8.jpg') }}" alt=""></a>
                                     <a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html"><div class="overlay_blog"></div></a>
                                     <div class="blog_definitions_wrap">
                                         <p class="date">15 March 2017 / By <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Xuan Li</a></p>
@@ -3101,7 +2055,7 @@
                             </li>
                             <li class="list_li animated slideInUp">
                                 <div class="list_in">
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="./Medina HTML 5 Template_files/4(1).jpg" alt=""></a>
+                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="{{ asset('assets/images/8.jpg') }}" alt=""></a>
                                     <a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html"><div class="overlay_blog"></div></a>
                                     <div class="blog_definitions_wrap">
                                         <p class="date">01 April 2017 / By <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Nick Man</a></p>
@@ -3115,7 +2069,7 @@
                             </li>
                             <li class="list_li animated slideInUp">
                                 <div class="list_in">
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="./Medina HTML 5 Template_files/7.jpg" alt=""></a>
+                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="{{ asset('assets/images/7.jpg') }}" alt=""></a>
                                     <a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html"><div class="overlay_blog"></div></a>
                                     <div class="blog_definitions_wrap">
                                         <p class="date">10 September 2017 / By <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Salmon Cook</a></p>
@@ -3129,7 +2083,7 @@
                             </li>
                             <li class="list_li animated slideInUp">
                                 <div class="list_in">
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="./Medina HTML 5 Template_files/6.jpg" alt=""></a>
+                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="{{ asset('assets/images/6.jpg') }}" alt=""></a>
                                     <a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html"><div class="overlay_blog"></div></a>
                                     <div class="blog_definitions_wrap">
                                         <p class="date">25 October 2017 / By <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Richard Doe</a></p>
@@ -3164,51 +2118,51 @@
 
                             <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1462px, 0px, 0px); transition: all 5s ease 0s; width: 3510px;"><div class="owl-item cloned" style="width: 292.5px;"><li class="list_li item">
                                             <div class="list_in">
-                                                <img src="./Medina HTML 5 Template_files/1.png" alt="#">
+                                                <img src="{{ asset('assets/images/1.png') }}" alt="#">
                                             </div>
                                         </li></div><div class="owl-item cloned" style="width: 292.5px;"><li class="list_li item">
                                             <div class="list_in">
-                                                <img src="./Medina HTML 5 Template_files/2.png" alt="#">
+                                                <img src="{{ asset('assets/images/2.png') }}" alt="#">
                                             </div>
                                         </li></div><div class="owl-item cloned" style="width: 292.5px;"><li class="list_li item">
                                             <div class="list_in">
-                                                <img src="./Medina HTML 5 Template_files/3.png" alt="#">
+                                                <img src="{{ asset('assets/images/3.png') }}" alt="#">
                                             </div>
                                         </li></div><div class="owl-item cloned" style="width: 292.5px;"><li class="list_li item">
                                             <div class="list_in">
-                                                <img src="./Medina HTML 5 Template_files/4.png" alt="#">
+                                                <img src="{{ asset('assets/images/4.png') }}" alt="#">
                                             </div>
                                         </li></div><div class="owl-item" style="width: 292.5px;"><li class="list_li item">
                                             <div class="list_in">
-                                                <img src="./Medina HTML 5 Template_files/1.png" alt="#">
+                                                <img src="{{ asset('assets/images/1.png') }}" alt="#">
                                             </div>
                                         </li></div><div class="owl-item active" style="width: 292.5px;"><li class="list_li item">
                                             <div class="list_in">
-                                                <img src="./Medina HTML 5 Template_files/2.png" alt="#">
+                                                <img src="{{ asset('assets/images/2.png') }}" alt="#">
                                             </div>
                                         </li></div><div class="owl-item active" style="width: 292.5px;"><li class="list_li item">
                                             <div class="list_in">
-                                                <img src="./Medina HTML 5 Template_files/3.png" alt="#">
+                                                <img src="{{ asset('assets/images/3.png') }}" alt="#">
                                             </div>
                                         </li></div><div class="owl-item active" style="width: 292.5px;"><li class="list_li item">
                                             <div class="list_in">
-                                                <img src="./Medina HTML 5 Template_files/4.png" alt="#">
+                                                <img src="{{ asset('assets/images/4.png') }}" alt="#">
                                             </div>
                                         </li></div><div class="owl-item cloned active" style="width: 292.5px;"><li class="list_li item">
                                             <div class="list_in">
-                                                <img src="./Medina HTML 5 Template_files/1.png" alt="#">
+                                                <img src="{{ asset('assets/images/1.png') }}" alt="#">
                                             </div>
                                         </li></div><div class="owl-item cloned" style="width: 292.5px;"><li class="list_li item">
                                             <div class="list_in">
-                                                <img src="./Medina HTML 5 Template_files/2.png" alt="#">
+                                                <img src="{{ asset('assets/images/2.png') }}" alt="#">
                                             </div>
                                         </li></div><div class="owl-item cloned" style="width: 292.5px;"><li class="list_li item">
                                             <div class="list_in">
-                                                <img src="./Medina HTML 5 Template_files/3.png" alt="#">
+                                                <img src="{{ asset('assets/images/3.png') }}" alt="#">
                                             </div>
                                         </li></div><div class="owl-item cloned" style="width: 292.5px;"><li class="list_li item">
                                             <div class="list_in">
-                                                <img src="./Medina HTML 5 Template_files/4.png" alt="#">
+                                                <img src="{{ asset('assets/images/4.png') }}" alt="#">
                                             </div>
                                         </li></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots disabled"></div></ul>
                     </div>
@@ -3252,7 +2206,7 @@
                                     <ul>
                                         <li>
                                             <div class="list_in">
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="./Medina HTML 5 Template_files/7(1).jpg" alt="#"></a>
+                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="{{ asset('assets/images/7(1).jpg') }}" alt="#"></a>
                                                 <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><div class="overlay"></div></a>
                                                 <div class="like"><p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="510px" height="510px" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve" class="svg replaced-svg">
 <g>
@@ -3295,7 +2249,7 @@
                                         </li>
                                         <li>
                                             <div class="list_in">
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="./Medina HTML 5 Template_files/4(2).jpg" alt="#"></a>
+                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="{{ asset('assets/images/4(2).jpg') }}" alt="#"></a>
                                                 <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><div class="overlay"></div></a>
                                                 <div class="like"><p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="510px" height="510px" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve" class="svg replaced-svg">
 <g>
@@ -3338,7 +2292,7 @@
                                         </li>
                                         <li>
                                             <div class="list_in">
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="./Medina HTML 5 Template_files/2(6).jpg" alt="#"></a>
+                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="{{ asset('assets/images/2(6).jpg') }}" alt="#"></a>
                                                 <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><div class="overlay"></div></a>
                                                 <div class="like"><p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="510px" height="510px" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve" class="svg replaced-svg">
 <g>
@@ -3381,7 +2335,7 @@
                                         </li>
                                         <li>
                                             <div class="list_in">
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="./Medina HTML 5 Template_files/1(5).jpg" alt="#"></a>
+                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="{{ asset('assets/images/1(5).jpg') }}" alt="#"></a>
                                                 <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><div class="overlay"></div></a>
                                                 <div class="like"><p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="510px" height="510px" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve" class="svg replaced-svg">
 <g>
@@ -3424,7 +2378,7 @@
                                         </li>
                                         <li>
                                             <div class="list_in">
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="./Medina HTML 5 Template_files/5.jpg" alt="#"></a>
+                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src=".{{ asset('assets/images/5.jpg') }}" alt="#"></a>
                                                 <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><div class="overlay"></div></a>
                                                 <div class="like"><p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="510px" height="510px" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve" class="svg replaced-svg">
 <g>
@@ -3517,8 +2471,8 @@
     <!-- FOOTER -->
     <footer class="medina_tm_footer">
         <div class="medina_tm_footer_copyright">
-            <p class="made">Made with <i class="xcon-heart"></i> in Studio</p>
-            <p class="copyright">2019 Marketify Designs - All Rights Reserved</p>
+            <p class="made">Designed & Created By Bruno Sekhosana</p>
+            <p class="copyright">2019 WineWednesdays - All Rights Reserved</p>
         </div>
     </footer>
     <!-- /FOOTER -->
