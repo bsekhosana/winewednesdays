@@ -15,6 +15,7 @@
     <link href="{{ asset('assets/css/plugins.css') }}" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/plugins.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
     {{--<!--[if lt IE 9]> <script type="text/javascript" src="{{ asset('assets/css/plugins.css') }}js/modernizr.custom.js"></script> <![endif]-->--}}
     {{--<!-- /STYLES -->--}}
 
@@ -502,10 +503,15 @@
                             <li class="audio">
                                 <a class="voice_on" href="#"><i class="xcon-volume-up"></i></a>
                             </li>
-                            <li class="icon"><a href="#"><i class="xcon-facebook"></i></a></li>
-                            <li class="icon"><a href="#"><i class="xcon-twitter"></i></a></li>
-                            <li class="icon"><a href="#"><i class="xcon-instagram"></i></a></li>
-                            <li class="icon"><a href="#"><i class="xcon-behance"></i></a></li>
+                            <li class="icon"><a target="_blank" href="https://www.facebook.com/winewednesdaysdbn/"><i class="fab fa-facebook-f"></i></a></li>
+                            <li>---</li>
+                            <li class="icon"><a target="_blank" href="https://twitter.com/WineWed_SA"><i class="fab fa-twitter"></i></a></li>
+                            <li>---</li>
+                            <li class="icon"><a target="_blank" href="https://www.instagram.com/winewednesdays_sa/"><i class="fab fa-instagram"></i></a></li>
+                            <li>
+
+                            </li>
+
                         </ul>
                     </div>
                     <div class="medina_tm_trigger">
@@ -558,7 +564,7 @@
                     </div>
                     <div class="down">
                         <div class="in anchor">
-                            <a href="#about"><span class="animated"><i class="xcon-angle-down"></i></span></a>
+                            <a href="#about"><span class="animated"><i class="fas fa-chevron-down"></i></span></a>
                         </div>
                     </div>
                     <div class="effectiv">
@@ -599,10 +605,9 @@
                             <p class="mail"><label>Mail:</label><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">JohnDoe@mail.com</a></p>
                             <label class="social">On socials:</label>
                             <ul>
-                                <li><a href="#"><i class="xcon-facebook"></i></a></li>
-                                <li><a href="#"><i class="xcon-twitter"></i></a></li>
-                                <li><a href="#"><i class="xcon-instagram"></i></a></li>
-                                <li><a href="#"><i class="xcon-behance"></i></a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/DOGG031"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a target="_blank" href="https://twitter.com/Dogg_Dbn"><i class="fab fa-twitter"></i></a></li>
+                                <li><a target="_blank" href="https://www.instagram.com/dogg_dbn_/"><i class="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
                         <div class="sign">
@@ -639,9 +644,9 @@
                                         </div>
                                         <div class="social_icons">
                                             <ul>
-                                                <li><a target="_blank" href="https://www.facebook.com/DOGG031"><i class="xcon-facebook"></i></a></li>
-                                                <li><a target="_blank" href="https://twitter.com/Dogg_Dbn"><i class="xcon-twitter"></i></a></li>
-                                                <li><a target="_blank" href="https://www.instagram.com/dogg_dbn_/"><i class="xcon-instagram"></i></a></li>
+                                                <li><a target="_blank" href="https://www.facebook.com/DOGG031"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a target="_blank" href="https://twitter.com/Dogg_Dbn"><i class="fab fa-twitter"></i></a></li>
+                                                <li><a target="_blank" href="https://www.instagram.com/dogg_dbn_/"><i class="fab fa-instagram"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -830,7 +835,6 @@
 </svg>
                                             <span class="definition_icon download">Download</span>
                                         </a>
-                                        <a class="purchase" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 28.406 28.406" style="enable-background:new 0 0 28.406 28.406;" xml:space="preserve" class="svg replaced-svg">
 <g>
     <g>
         <circle cx="13.679" cy="24.632" r="2.146"></circle>
@@ -989,8 +993,7 @@
 </svg>
                                             <span class="definition_icon download">Download</span>
                                         </a>
-                                        <a class="purchase" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 28.406 28.406" style="enable-background:new 0 0 28.406 28.406;" xml:space="preserve" class="svg replaced-svg">
-<g>
+   <g>
     <g>
         <circle cx="13.679" cy="24.632" r="2.146"></circle>
         <circle cx="22.271" cy="24.632" r="2.146"></circle>
@@ -1148,8 +1151,7 @@
 </svg>
                                             <span class="definition_icon download">Download</span>
                                         </a>
-                                        <a class="purchase" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 28.406 28.406" style="enable-background:new 0 0 28.406 28.406;" xml:space="preserve" class="svg replaced-svg">
-<g>
+                                        <g>
     <g>
         <circle cx="13.679" cy="24.632" r="2.146"></circle>
         <circle cx="22.271" cy="24.632" r="2.146"></circle>
@@ -1308,8 +1310,7 @@
 </svg>
                                             <span class="definition_icon download">Download</span>
                                         </a>
-                                        <a class="purchase" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 28.406 28.406" style="enable-background:new 0 0 28.406 28.406;" xml:space="preserve" class="svg replaced-svg">
-<g>
+                                        <g>
     <g>
         <circle cx="13.679" cy="24.632" r="2.146"></circle>
         <circle cx="22.271" cy="24.632" r="2.146"></circle>
@@ -1467,8 +1468,7 @@
 </svg>
                                             <span class="definition_icon download">Download</span>
                                         </a>
-                                        <a class="purchase" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 28.406 28.406" style="enable-background:new 0 0 28.406 28.406;" xml:space="preserve" class="svg replaced-svg">
-<g>
+                                        <g>
     <g>
         <circle cx="13.679" cy="24.632" r="2.146"></circle>
         <circle cx="22.271" cy="24.632" r="2.146"></circle>
@@ -1626,8 +1626,7 @@
 </svg>
                                             <span class="definition_icon download">Download</span>
                                         </a>
-                                        <a class="purchase" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 28.406 28.406" style="enable-background:new 0 0 28.406 28.406;" xml:space="preserve" class="svg replaced-svg">
-<g>
+                                        <g>
     <g>
         <circle cx="13.679" cy="24.632" r="2.146"></circle>
         <circle cx="22.271" cy="24.632" r="2.146"></circle>
@@ -1785,8 +1784,7 @@
 </svg>
                                             <span class="definition_icon download">Download</span>
                                         </a>
-                                        <a class="purchase" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 28.406 28.406" style="enable-background:new 0 0 28.406 28.406;" xml:space="preserve" class="svg replaced-svg">
-<g>
+                                       <g>
     <g>
         <circle cx="13.679" cy="24.632" r="2.146"></circle>
         <circle cx="22.271" cy="24.632" r="2.146"></circle>
@@ -2082,9 +2080,9 @@
                                 <span class="title">General</span>
                                 <span class="line"></span>
                                 <ul>
-                                    <li><i class="xcon-mail"></i><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">contact@company.com</a></li>
+                                    <li><i class="xcon-mail"></i><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">info@winewednesdays.co.za</a></li>
                                     <li><i class="xcon-phone"></i><span>+55 (022) 788 6666</span></li>
-                                    <li><i class="xcon-globe"></i><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">www.yourdomain.com</a></li>
+                                    <li><i class="xcon-globe"></i><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">www.winewednesdays.co.za</a></li>
                                 </ul>
                             </div>
                             <div class="general willow">
@@ -2094,229 +2092,6 @@
                                     <li><i class="xcon-location"></i><span>Sultan, East Mumbai, India</span></li>
                                     <li><i class="xcon-home"></i><span>St. Qwerty 77, New York, USA</span></li>
                                 </ul>
-                            </div>
-                            <div class="general instagram">
-                                <span class="title">Instagram Stream</span>
-                                <span class="line"></span>
-                                <div class="medina_tm_instagram_wrap">
-                                    <ul>
-                                        <li>
-                                            <div class="list_in">
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="{{ asset('assets/images/7(1).jpg') }}" alt="#"></a>
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><div class="overlay"></div></a>
-                                                <div class="like"><p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="510px" height="510px" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <g id="favorite">
-        <path d="M255,489.6l-35.7-35.7C86.7,336.6,0,257.55,0,160.65C0,81.6,61.2,20.4,140.25,20.4c43.35,0,86.7,20.4,114.75,53.55    C283.05,40.8,326.4,20.4,369.75,20.4C448.8,20.4,510,81.6,510,160.65c0,96.9-86.7,175.95-219.3,293.25L255,489.6z"></path>
-    </g>
-</g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-</svg> 1</p></div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="list_in">
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="{{ asset('assets/images/4(2).jpg') }}" alt="#"></a>
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><div class="overlay"></div></a>
-                                                <div class="like"><p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="510px" height="510px" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <g id="favorite">
-        <path d="M255,489.6l-35.7-35.7C86.7,336.6,0,257.55,0,160.65C0,81.6,61.2,20.4,140.25,20.4c43.35,0,86.7,20.4,114.75,53.55    C283.05,40.8,326.4,20.4,369.75,20.4C448.8,20.4,510,81.6,510,160.65c0,96.9-86.7,175.95-219.3,293.25L255,489.6z"></path>
-    </g>
-</g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-</svg> 2</p></div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="list_in">
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="{{ asset('assets/images/2(6).jpg') }}" alt="#"></a>
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><div class="overlay"></div></a>
-                                                <div class="like"><p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="510px" height="510px" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <g id="favorite">
-        <path d="M255,489.6l-35.7-35.7C86.7,336.6,0,257.55,0,160.65C0,81.6,61.2,20.4,140.25,20.4c43.35,0,86.7,20.4,114.75,53.55    C283.05,40.8,326.4,20.4,369.75,20.4C448.8,20.4,510,81.6,510,160.65c0,96.9-86.7,175.95-219.3,293.25L255,489.6z"></path>
-    </g>
-</g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-</svg> 3</p></div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="list_in">
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src="{{ asset('assets/images/1(5).jpg') }}" alt="#"></a>
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><div class="overlay"></div></a>
-                                                <div class="like"><p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="510px" height="510px" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <g id="favorite">
-        <path d="M255,489.6l-35.7-35.7C86.7,336.6,0,257.55,0,160.65C0,81.6,61.2,20.4,140.25,20.4c43.35,0,86.7,20.4,114.75,53.55    C283.05,40.8,326.4,20.4,369.75,20.4C448.8,20.4,510,81.6,510,160.65c0,96.9-86.7,175.95-219.3,293.25L255,489.6z"></path>
-    </g>
-</g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-</svg> 4</p></div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="list_in">
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img src=".{{ asset('assets/images/5.jpg') }}" alt="#"></a>
-                                                <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><div class="overlay"></div></a>
-                                                <div class="like"><p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="510px" height="510px" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <g id="favorite">
-        <path d="M255,489.6l-35.7-35.7C86.7,336.6,0,257.55,0,160.65C0,81.6,61.2,20.4,140.25,20.4c43.35,0,86.7,20.4,114.75,53.55    C283.05,40.8,326.4,20.4,369.75,20.4C448.8,20.4,510,81.6,510,160.65c0,96.9-86.7,175.95-219.3,293.25L255,489.6z"></path>
-    </g>
-</g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-                                                            <g>
-                                                            </g>
-</svg> 5</p></div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
                             </div>
                         </div>
                         <div class="right">
@@ -2351,7 +2126,7 @@
                                                 </div>
                                             </li>
                                         </ul>
-                                        <a id="send_message" class="send_message" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-direction"></i>Send message</a>
+                                        <a id="send_message" class="send_message" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="far fa-paper-plane"></i>Send message</a>
                                     </div>
                                 </form>
                             </div>
@@ -2373,7 +2148,7 @@
     </footer>
     <!-- /FOOTER -->
 
-    <a class="medina_tm_totop" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="xcon-angle-up"></i></a>
+    <a class="medina_tm_totop" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><i class="fas fa-chevron-up"></i></a>
 
     <!-- AUDIOBOX -->
     <div class="medina_tm_audio_wrap">

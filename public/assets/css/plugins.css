@@ -270,7 +270,7 @@ input[type="button"]{
   font-family: 'xcon';
   src: url('font/xcon.eot?4965248');
   src: url('font/xcon.eot?4965248#iefix') format('embedded-opentype'),
-       url('font/xcon.woff2?4965248') format('woff2'),
+       url('../font/xcon.woff2?4965248') format('woff2'),
        url('font/xcon.woff?4965248') format('woff'),
        url('font/xcon.ttf?4965248') format('truetype'),
        url('font/xcon.svg?4965248#xcon') format('svg');
