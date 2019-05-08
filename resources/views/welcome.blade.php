@@ -494,7 +494,6 @@
                             <li class=""><a href="#about">About</a></li>
                             <li class=""><a href="#team">Our Team</a></li>
                             <li class=""><a href="#portfolio">Portfolio</a></li>
-                            <li class=""><a href="#blog">Blog</a></li>
                             <li class=""><a href="#contact">Contact</a></li>
                         </ul>
                     </div>
@@ -1998,108 +1997,6 @@
             </div>
         </div>
         <!-- /PORTFOLIO -->
-
-        <!-- BLOG -->
-        <div class="medina_tm_section" id="blog">
-            <div class="medina_tm_blog_wrap">
-                <div class="medina_tm_title_holder blog">
-                    <span class="title_section">Latest Blog</span>
-                    <span class="title_definition">Lorem Ipsum is simply dummy text of the super printing.</span>
-                    <span class="line"></span>
-                </div>
-                <div class="medina_tm_list_wrap section_blog" data-column="3" data-space="20">
-                    <div class="container">
-                        <ul class="macro_list another_animation">
-                            <li class="list_li animated slideInUp">
-                                <div class="list_in">
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="{{ asset('assets/images/1(3).jpg') }}" alt="" style=""></a>
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html"><div class="overlay_blog"></div></a>
-                                    <div class="blog_definitions_wrap">
-                                        <p class="date">07 January 2017 / By <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Marcus Doe</a></p>
-                                        <span class="title_item"><a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html">Photographer Girl</a></span>
-                                        <p class="description_blog">Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
-                                    </div>
-                                    <div class="category_blog">
-                                        <span>Photographer</span>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="list_li animated slideInUp">
-                                <div class="list_in">
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="{{ asset('assets/images/2(5).jpg') }}" alt=""></a>
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html"><div class="overlay_blog"></div></a>
-                                    <div class="blog_definitions_wrap">
-                                        <p class="date">11 February 2017 / By <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Ferry An</a></p>
-                                        <span class="title_item"><a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html">UPS Autocar</a></span>
-                                        <p class="description_blog">Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
-                                    </div>
-                                    <div class="category_blog">
-                                        <span>Transport</span>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="list_li animated slideInUp">
-                                <div class="list_in">
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="{{ asset('assets/images/8.jpg') }}" alt=""></a>
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html"><div class="overlay_blog"></div></a>
-                                    <div class="blog_definitions_wrap">
-                                        <p class="date">15 March 2017 / By <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Xuan Li</a></p>
-                                        <span class="title_item"><a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html">Fashionable Girl</a></span>
-                                        <p class="description_blog">Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
-                                    </div>
-                                    <div class="category_blog">
-                                        <span>Fashion</span>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="list_li animated slideInUp">
-                                <div class="list_in">
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="{{ asset('assets/images/8.jpg') }}" alt=""></a>
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html"><div class="overlay_blog"></div></a>
-                                    <div class="blog_definitions_wrap">
-                                        <p class="date">01 April 2017 / By <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Nick Man</a></p>
-                                        <span class="title_item"><a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html">Beautiful Nature</a></span>
-                                        <p class="description_blog">Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
-                                    </div>
-                                    <div class="category_blog">
-                                        <span>Nature</span>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="list_li animated slideInUp">
-                                <div class="list_in">
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="{{ asset('assets/images/7.jpg') }}" alt=""></a>
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html"><div class="overlay_blog"></div></a>
-                                    <div class="blog_definitions_wrap">
-                                        <p class="date">10 September 2017 / By <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Salmon Cook</a></p>
-                                        <span class="title_item"><a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html">Alone</a></span>
-                                        <p class="description_blog" style="display: none;">Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
-                                    </div>
-                                    <div class="category_blog">
-                                        <span>Life</span>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="list_li animated slideInUp">
-                                <div class="list_in">
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><img class="image" src="{{ asset('assets/images/6.jpg') }}" alt=""></a>
-                                    <a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html"><div class="overlay_blog"></div></a>
-                                    <div class="blog_definitions_wrap">
-                                        <p class="date">25 October 2017 / By <a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">Richard Doe</a></p>
-                                        <span class="title_item"><a href="http://frenify.com/envato/marketify/html/medina/1/blog_single.html">Lovely Couples</a></span>
-                                        <p class="description_blog" style="display: none;">Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
-                                    </div>
-                                    <div class="category_blog">
-                                        <span>Life</span>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /BLOG -->
 
         <!-- PARTNER -->
         <div class="medina_tm_title_holder partner">
