@@ -494,7 +494,7 @@
                             <li class="current"><a href="#home">Home</a></li>
                             <li class=""><a href="#about">About</a></li>
                             <li class=""><a href="#team">Our Team</a></li>
-                            <li class=""><a href="#portfolio">Portfolio</a></li>
+                            <li class=""><a href="#gallery">Gallery</a></li>
                             <li class=""><a href="#contact">Contact</a></li>
                         </ul>
                     </div>
@@ -530,7 +530,7 @@
                 <li class="current"><a href="#home">Home</a></li>
                 <li class=""><a href="#about">About</a></li>
                 <li class=""><a href="#services">Services</a></li>
-                <li class=""><a href="#portfolio">Portfolio</a></li>
+                <li class=""><a href="#gallery">Gallery</a></li>
                 <li class=""><a href="#blog">Blog</a></li>
                 <li class=""><a href="#contact">Contact</a></li>
             </ul>
@@ -708,11 +708,11 @@
         <!-- /COUNTER -->
 
         <!-- PORTFOLIO -->
-        <div class="medina_tm_section" id="portfolio">
+        <div class="medina_tm_section" id="gallery">
             <div class="medina_tm_portfolio_wrap">
                 <div class="medina_tm_title_holder">
-                    <span class="title_section">Portfolio</span>
-                    <span class="title_definition">Lorem Ipsum is simply dummy text of the super printing.</span>
+                    <span class="title_section">Gallery</span>
+                    <span class="title_definition">Here Is A Sneak Peak Of Some Of Our Awesome Times.</span>
                     <span class="line"></span>
                 </div>
                 <div class="medina_tm_portfolio_wrap" data-col="4" data-space="10" data-lightbox-gallery="on" data-hover-img="scale" data-overlay-bgcolor="transDark" data-text-hor-pos="center" data-text-ver-pos="middle" data-hover-animate="zoomIn" data-round="e" data-animation="woop" data-delay="300">
