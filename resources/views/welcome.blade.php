@@ -529,9 +529,8 @@
             <ul class="anchor_nav">
                 <li class="current"><a href="#home">Home</a></li>
                 <li class=""><a href="#about">About</a></li>
-                <li class=""><a href="#services">Services</a></li>
+                <li class=""><a href="#team">Our Team</a></li>
                 <li class=""><a href="#gallery">Gallery</a></li>
-                <li class=""><a href="#blog">Blog</a></li>
                 <li class=""><a href="#contact">Contact</a></li>
             </ul>
         </div>
@@ -546,8 +545,8 @@
             <div class="medina_tm_top_bg_wrap home">
                 <div class="top_bg">
                     <div class="overlay_video">
-                        <video autoplay="" loop="" muted="">
-                            <source src="{{ asset('assets/videos/wine.mp4') }}" type="video/mp4">
+                        <video autoplay=true loop="" muted="">
+                            <source src="{{ asset('assets/videos/wine22.mp4') }}" type="video/mp4">
                         </video>
                     </div>
                     <div class="overlay_color video"></div>
