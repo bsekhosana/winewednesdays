@@ -545,9 +545,13 @@
             <div class="medina_tm_top_bg_wrap home">
                 <div class="top_bg">
                     <div class="overlay_video">
-                        <video autoplay=true loop="" muted="">
-                            <source src="{{ asset('assets/videos/wine22.mp4') }}" type="video/mp4">
-                        </video>
+                        @if ($agent->isMobile())
+                            <img style="position:relative;left:-20px;right:-20px;height:100%;" src="{{ asset('assets/videos/wine22.gif') }}">
+                            @else
+                            <video autoplay loop="" muted="">
+                                <source src="{{ asset('assets/videos/wine22.mp4') }}" type="video/mp4">
+                            </video>
+                        @endif
                     </div>
                     <div class="overlay_color video"></div>
                 </div>
