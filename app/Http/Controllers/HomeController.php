@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use File;
 use Illuminate\View\View;
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;
@@ -70,5 +71,16 @@ class HomeController extends BaseController
         $results = $client->request('GET', 'https://uploads-winewednesdays.ams3.digitaloceanspaces.com/48_GIN__Bernini_Wine_Wednesdays/361A0093.jpg');
 
 //        dd($results);
+    }
+
+    public function getFolderImages($folder){
+        $filesInFolder = File::files('assets/images/gallery/'.$folder);
+        $filenames = [];
+        foreach($filesInFolder as $path) {
+            $file = pathinfo($path);
+            array_push($filenames,$file['dirname'].'/'.$file['basename']) ;
+        }
+
+        return $filenames;
     }
 }

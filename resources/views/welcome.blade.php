@@ -749,7 +749,7 @@
                                 <img class="image" src="{{ asset('assets/images/gallery/48gin.jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/gallery/48gin.jpg') }}">
+                                        <a class="zoom" href="{{ asset('assets/images/gallery/48gin.jpg') }}" onclick="fetchGalleryImages('48 gin bernini')">
                                             <i class="fas fa-expand"></i>
                                         </a>
                                     </div>
@@ -764,7 +764,7 @@
                                 <img class="image" src="{{ asset('assets/images/gallery/bnc.jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/gallery/bnc.jpg') }}">
+                                        <a class="zoom" href="{{ asset('assets/images/gallery/bnc.jpg') }}" onclick="fetchGalleryImages('bnc')">
                                             <i class="fas fa-expand"></i>
                                         </a>
                                     </div>
@@ -779,7 +779,7 @@
                                 <img class="image" src="{{ asset('assets/images/gallery/simmy.jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/gallery/simmy.jpg') }}">
+                                        <a class="zoom" href="{{ asset('assets/images/gallery/simmy.jpg') }}" onclick="fetchGalleryImages('simmy')">
                                             <i class="fas fa-expand"></i>
                                         </a>
                                     </div>
@@ -794,7 +794,7 @@
                                 <img class="image" src="{{ asset('assets/images/gallery/cvs.jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/gallery/cvs.jpg') }}">
+                                        <a class="zoom" href="{{ asset('assets/images/gallery/cvs.jpg') }}" onclick="fetchGalleryImages('courvoisier')">
                                             <i class="fas fa-expand"></i>
                                         </a>
                                     </div>
@@ -809,7 +809,7 @@
                                     <img class="image" src="{{ asset('assets/images/gallery/black.jpg') }}" alt="">
                                     <div class="overlay">
                                         <div class="clickable_wrap">
-                                            <a class="zoom" href="{{ asset('assets/images/gallery/black.jpg') }}">
+                                            <a class="zoom" href="{{ asset('assets/images/gallery/black.jpg') }}" onclick="fetchGalleryImages('black cofee 2019')">
                                                 <i class="fas fa-expand"></i>
                                             </a>
                                         </div>
@@ -824,7 +824,7 @@
                                     <img class="image" src="{{ asset('assets/images/gallery/snn.jpg') }}" alt="">
                                     <div class="overlay">
                                         <div class="clickable_wrap">
-                                            <a class="zoom" href="{{ asset('assets/images/gallery/snn.jpg') }}">
+                                            <a class="zoom" href="{{ asset('assets/images/gallery/snn.jpg') }}" onclick="fetchGalleryImages('sphe & naves')">
                                                 <i class="fas fa-expand"></i>
                                             </a>
                                         </div>
@@ -839,7 +839,7 @@
                                     <img class="image" src="{{ asset('assets/images/gallery/wwc.jpg') }}" alt="">
                                     <div class="overlay">
                                         <div class="clickable_wrap">
-                                            <a class="zoom" href="{{ asset('assets/images/gallery/wwc.jpg') }}">
+                                            <a class="zoom" href="{{ asset('assets/images/gallery/wwc.jpg') }}" onclick="fetchGalleryImages('wednescrush')">
                                                 <i class="fas fa-expand"></i>
                                             </a>
                                         </div>
@@ -854,7 +854,7 @@
                                     <img class="image" src="{{ asset('assets/images/gallery/pk.jpg') }}" alt="">
                                     <div class="overlay">
                                         <div class="clickable_wrap">
-                                            <a class="zoom" href="{{ asset('assets/images/gallery/pk.jpg') }}">
+                                            <a class="zoom" href="{{ asset('assets/images/gallery/pk.jpg') }}" onclick="fetchGalleryImages('prince')">
                                                 <i class="fas fa-expand"></i></a>
                                         </div>
                                         <div class="portfolio_title">
@@ -1043,5 +1043,29 @@
 <script src="{{ asset('assets/js/init.js') }}"></script>
 <!-- /SCRIPTS -->
 
+<script type="text/javascript">
 
-</body></html>
+        function fetchGalleryImages(folder) {
+            $.ajax({
+                type: 'GET', //THIS NEEDS TO BE GET
+                url: '{{ url('/get-images') }}/'+folder,
+                dataType: 'json',
+                success: function (data) {
+                    $.each(data, function(index, item) {
+                        console.log(item);
+                    });
+                },error:function(){
+                    console.log(data);
+                }
+            });
+        }
+
+
+</script>
+
+
+</body>
+
+
+
+</html>
