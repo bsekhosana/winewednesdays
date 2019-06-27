@@ -9,7 +9,7 @@
 
     <title>Wine Wednesdays</title>
 
-    <link rel="shortcut icon" href="{{ asset('assets/images/wine_logo.png') }}">
+    <link rel="shortcut icon" href="{{ asset('assets/images/ww_logo_white.png') }}">
 
     <!-- STYLES -->
     <link href="{{ asset('assets/css/plugins.css') }}" rel="stylesheet">
@@ -484,10 +484,22 @@
     <header class="medina_tm_header">
         <div class="in">
             <div class="in_relative">
-                <div class="logo">
-                    <a class="light" href=""><img src="{{ asset('assets/images/wine_logo.png') }}" alt=""></a>
-                    <a class="dark" href="#"><img src=".{{ asset('assets/images/wine_logo.png') }}/" alt=""></a>
-                </div>
+                @if ($agent->isMobile())
+                    <div>
+                    <a class="light" href=""><img src="{{ asset('assets/images/ww_logo_white.png') }}" alt="" style="
+                                max-width:11%;position: absolute;
+                                left: 10px;
+                                bottom: -59px"></a>
+                @else
+                    <div class="logo">
+                            <a class="light" href=""><img src="{{ asset('assets/images/ww_logo_white.png') }}" alt="" style="text-align: center;
+	max-width:40%;"></a>
+                            <a class="dark" href="#"><img src="{{ asset('assets/images/ww_logo_white.png') }}" alt="" style="vertical-align:middle;
+	max-width:60%; margin:50px auto 0 auto;"></a>
+
+                    </div>
+                @endif
+
                 <div class="navigation_list_wrap">
                     <div class="menu">
                         <ul class="anchor_nav">
@@ -720,1280 +732,139 @@
                 </div>
                 <div class="medina_tm_portfolio_wrap" data-col="4" data-space="10" data-lightbox-gallery="on" data-hover-img="scale" data-overlay-bgcolor="transDark" data-text-hor-pos="center" data-text-ver-pos="middle" data-hover-animate="zoomIn" data-round="e" data-animation="woop" data-delay="300">
                     <ul class="medina_tm_portfolio_filter">
-                        <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#" class="current" data-filter="*">All</a></li>
-                        <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#" data-filter=".people">People</a></li>
-                        <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#" data-filter=".nature">Nature</a></li>
-                        <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#" data-filter=".animal">Animal</a></li>
-                        <li><a href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#" data-filter=".video">Video</a></li>
+                        <li><a href="#" class="current" data-filter="*">All</a></li>
+                        <li><a href="#" data-filter=".48gin">48 Gin & Benini</a></li>
+                        <li><a href="#" data-filter=".bnc">Bonnie & Clyde</a></li>
+                        <li><a href="#" data-filter=".simmy">Simmy</a></li>
+                        <li><a href="#" data-filter=".courvoisier">Courvoisier</a></li>
+                        <li><a href="#" data-filter=".black">Black Cofee</a></li>
+                        <li><a href="#" data-filter=".snn">Sphe & Naves</a></li>
+                        <li><a href="#" data-filter=".wwc">WineWed Crush</a></li>
+                        <li><a href="#" data-filter=".pk">Prince Kaybee</a></li>
                     </ul>
-                    <ul class="medina_tm_portfolio_list gallery_zoom">
-                        <li class="people">
+                    <div class="row">
+                        <ul class="medina_tm_portfolio_list gallery_zoom">
+                        <li class="48gin">
                             <article class="item_holder">
-                                <img class="image" src="{{ asset('assets/images/2(2).jpg') }}" alt="">
+                                <img class="image" src="{{ asset('assets/images/gallery/48gin.jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/2(2).jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon zoom">Zoom</span>
-                                        </a>
-                                        <a class="gownload" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 29.978 29.978" style="enable-background:new 0 0 29.978 29.978;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M25.462,19.105v6.848H4.515v-6.848H0.489v8.861c0,1.111,0.9,2.012,2.016,2.012h24.967c1.115,0,2.016-0.9,2.016-2.012   v-8.861H25.462z"></path>
-    <path d="M14.62,18.426l-5.764-6.965c0,0-0.877-0.828,0.074-0.828s3.248,0,3.248,0s0-0.557,0-1.416c0-2.449,0-6.906,0-8.723   c0,0-0.129-0.494,0.615-0.494c0.75,0,4.035,0,4.572,0c0.536,0,0.524,0.416,0.524,0.416c0,1.762,0,6.373,0,8.742   c0,0.768,0,1.266,0,1.266s1.842,0,2.998,0c1.154,0,0.285,0.867,0.285,0.867s-4.904,6.51-5.588,7.193   C15.092,18.979,14.62,18.426,14.62,18.426z"></path>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon download">Download</span>
-                                        </a>
-<g>
-    <g>
-        <circle cx="13.679" cy="24.632" r="2.146"></circle>
-        <circle cx="22.271" cy="24.632" r="2.146"></circle>
-        <path d="M27.931,6.281c-0.47-0.472-1.395-0.457-1.395-0.457H7.648L7.024,3.221c-0.223-0.933-1.059-1.593-2.02-1.593H0l0.969,2.079    l3.052-0.01c0.693-0.002,1.292,0.485,1.433,1.165l2.783,13.395c0.326,1.572,1.71,2.702,3.315,2.702c3.995,0,11.053,0,12.259,0    c1.697,0,1.802-1.87,1.802-1.87s-9.963,0-13.512,0c-0.698,0-1.514,0.097-2.032-1.915c-0.192-0.745-0.641-3.006-0.641-3.006    l16.921-0.022c0.744-0.026,1.377-0.589,1.462-1.352l0.578-5.264C28.44,7.046,28.403,6.75,27.931,6.281z M25.935,12.038H8.975    L8.155,8.21h18.196L25.935,12.038z"></path>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon purchase">Purchase</span>
+                                        <a class="zoom" href="{{ asset('assets/images/gallery/48gin.jpg') }}">
+                                            <i class="fas fa-expand"></i>
                                         </a>
                                     </div>
                                     <div class="portfolio_title">
-                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">My daughter</a></h5>
+                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">48 Gin & Benini</a></h5>
                                     </div>
                                 </div>
                             </article>
                         </li>
-                        <li class="nature">
+                        <li class="bnc">
                             <article class="item_holder">
-                                <img class="image" src="{{ asset('assets/images/2(3).jpg') }}" alt="">
+                                <img class="image" src="{{ asset('assets/images/gallery/bnc.jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/2(3).jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon zoom">Zoom</span>
-                                        </a>
-                                        <a class="gownload" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 29.978 29.978" style="enable-background:new 0 0 29.978 29.978;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M25.462,19.105v6.848H4.515v-6.848H0.489v8.861c0,1.111,0.9,2.012,2.016,2.012h24.967c1.115,0,2.016-0.9,2.016-2.012   v-8.861H25.462z"></path>
-    <path d="M14.62,18.426l-5.764-6.965c0,0-0.877-0.828,0.074-0.828s3.248,0,3.248,0s0-0.557,0-1.416c0-2.449,0-6.906,0-8.723   c0,0-0.129-0.494,0.615-0.494c0.75,0,4.035,0,4.572,0c0.536,0,0.524,0.416,0.524,0.416c0,1.762,0,6.373,0,8.742   c0,0.768,0,1.266,0,1.266s1.842,0,2.998,0c1.154,0,0.285,0.867,0.285,0.867s-4.904,6.51-5.588,7.193   C15.092,18.979,14.62,18.426,14.62,18.426z"></path>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon download">Download</span>
-                                        </a>
-   <g>
-    <g>
-        <circle cx="13.679" cy="24.632" r="2.146"></circle>
-        <circle cx="22.271" cy="24.632" r="2.146"></circle>
-        <path d="M27.931,6.281c-0.47-0.472-1.395-0.457-1.395-0.457H7.648L7.024,3.221c-0.223-0.933-1.059-1.593-2.02-1.593H0l0.969,2.079    l3.052-0.01c0.693-0.002,1.292,0.485,1.433,1.165l2.783,13.395c0.326,1.572,1.71,2.702,3.315,2.702c3.995,0,11.053,0,12.259,0    c1.697,0,1.802-1.87,1.802-1.87s-9.963,0-13.512,0c-0.698,0-1.514,0.097-2.032-1.915c-0.192-0.745-0.641-3.006-0.641-3.006    l16.921-0.022c0.744-0.026,1.377-0.589,1.462-1.352l0.578-5.264C28.44,7.046,28.403,6.75,27.931,6.281z M25.935,12.038H8.975    L8.155,8.21h18.196L25.935,12.038z"></path>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon purchase">Purchase</span>
+                                        <a class="zoom" href="{{ asset('assets/images/gallery/bnc.jpg') }}">
+                                            <i class="fas fa-expand"></i>
                                         </a>
                                     </div>
                                     <div class="portfolio_title">
-                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Amazing Flower</a></h5>
+                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Bonnie & Clyde</a></h5>
                                     </div>
                                 </div>
                             </article>
                         </li>
-                        <li class="animal">
+                        <li class="simmy">
                             <article class="item_holder">
-                                <img class="image" src="{{ asset('assets/images/2(4).jpg') }}" alt="">
+                                <img class="image" src="{{ asset('assets/images/gallery/simmy.jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/2(4).jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon zoom">Zoom</span>
-                                        </a>
-                                        <a class="gownload" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 29.978 29.978" style="enable-background:new 0 0 29.978 29.978;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M25.462,19.105v6.848H4.515v-6.848H0.489v8.861c0,1.111,0.9,2.012,2.016,2.012h24.967c1.115,0,2.016-0.9,2.016-2.012   v-8.861H25.462z"></path>
-    <path d="M14.62,18.426l-5.764-6.965c0,0-0.877-0.828,0.074-0.828s3.248,0,3.248,0s0-0.557,0-1.416c0-2.449,0-6.906,0-8.723   c0,0-0.129-0.494,0.615-0.494c0.75,0,4.035,0,4.572,0c0.536,0,0.524,0.416,0.524,0.416c0,1.762,0,6.373,0,8.742   c0,0.768,0,1.266,0,1.266s1.842,0,2.998,0c1.154,0,0.285,0.867,0.285,0.867s-4.904,6.51-5.588,7.193   C15.092,18.979,14.62,18.426,14.62,18.426z"></path>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon download">Download</span>
-                                        </a>
-                                        <g>
-    <g>
-        <circle cx="13.679" cy="24.632" r="2.146"></circle>
-        <circle cx="22.271" cy="24.632" r="2.146"></circle>
-        <path d="M27.931,6.281c-0.47-0.472-1.395-0.457-1.395-0.457H7.648L7.024,3.221c-0.223-0.933-1.059-1.593-2.02-1.593H0l0.969,2.079    l3.052-0.01c0.693-0.002,1.292,0.485,1.433,1.165l2.783,13.395c0.326,1.572,1.71,2.702,3.315,2.702c3.995,0,11.053,0,12.259,0    c1.697,0,1.802-1.87,1.802-1.87s-9.963,0-13.512,0c-0.698,0-1.514,0.097-2.032-1.915c-0.192-0.745-0.641-3.006-0.641-3.006    l16.921-0.022c0.744-0.026,1.377-0.589,1.462-1.352l0.578-5.264C28.44,7.046,28.403,6.75,27.931,6.281z M25.935,12.038H8.975    L8.155,8.21h18.196L25.935,12.038z"></path>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon purchase">Purchase</span>
+                                        <a class="zoom" href="{{ asset('assets/images/gallery/simmy.jpg') }}">
+                                            <i class="fas fa-expand"></i>
                                         </a>
                                     </div>
                                     <div class="portfolio_title">
-                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Golden Fish</a></h5>
+                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Simmy</a></h5>
                                     </div>
                                 </div>
                             </article>
                         </li>
-                        <li class="video">
+                        <li class="courvoisier">
                             <article class="item_holder">
-                                <img class="image" src="{{ asset('assets/images/3(2).jpg') }}" alt="">
+                                <img class="image" src="{{ asset('assets/images/gallery/cvs.jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="clickable_wrap">
-                                        <a class="play popup-youtube" href="https://www.youtube.com/watch?v=LTXD6XZXc3U">
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="443.307px" height="443.306px" viewBox="0 0 443.307 443.306" style="enable-background:new 0 0 443.307 443.306;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M415.934,212.799L36.788,2.097C32.411-0.377,28.65-0.661,25.51,1.242c-3.14,1.902-4.708,5.328-4.708,10.276V431.78   c0,4.952,1.569,8.381,4.708,10.284c3.14,1.902,6.901,1.622,11.278-0.855l379.146-210.703c4.381-2.478,6.571-5.434,6.571-8.856   C422.505,218.224,420.314,215.274,415.934,212.799z"></path>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon play">Play</span>
-                                        </a>
-                                        <a class="gownload" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 29.978 29.978" style="enable-background:new 0 0 29.978 29.978;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M25.462,19.105v6.848H4.515v-6.848H0.489v8.861c0,1.111,0.9,2.012,2.016,2.012h24.967c1.115,0,2.016-0.9,2.016-2.012   v-8.861H25.462z"></path>
-    <path d="M14.62,18.426l-5.764-6.965c0,0-0.877-0.828,0.074-0.828s3.248,0,3.248,0s0-0.557,0-1.416c0-2.449,0-6.906,0-8.723   c0,0-0.129-0.494,0.615-0.494c0.75,0,4.035,0,4.572,0c0.536,0,0.524,0.416,0.524,0.416c0,1.762,0,6.373,0,8.742   c0,0.768,0,1.266,0,1.266s1.842,0,2.998,0c1.154,0,0.285,0.867,0.285,0.867s-4.904,6.51-5.588,7.193   C15.092,18.979,14.62,18.426,14.62,18.426z"></path>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon download">Download</span>
-                                        </a>
-                                        <g>
-    <g>
-        <circle cx="13.679" cy="24.632" r="2.146"></circle>
-        <circle cx="22.271" cy="24.632" r="2.146"></circle>
-        <path d="M27.931,6.281c-0.47-0.472-1.395-0.457-1.395-0.457H7.648L7.024,3.221c-0.223-0.933-1.059-1.593-2.02-1.593H0l0.969,2.079    l3.052-0.01c0.693-0.002,1.292,0.485,1.433,1.165l2.783,13.395c0.326,1.572,1.71,2.702,3.315,2.702c3.995,0,11.053,0,12.259,0    c1.697,0,1.802-1.87,1.802-1.87s-9.963,0-13.512,0c-0.698,0-1.514,0.097-2.032-1.915c-0.192-0.745-0.641-3.006-0.641-3.006    l16.921-0.022c0.744-0.026,1.377-0.589,1.462-1.352l0.578-5.264C28.44,7.046,28.403,6.75,27.931,6.281z M25.935,12.038H8.975    L8.155,8.21h18.196L25.935,12.038z"></path>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon purchase">Purchase</span>
+                                        <a class="zoom" href="{{ asset('assets/images/gallery/cvs.jpg') }}">
+                                            <i class="fas fa-expand"></i>
                                         </a>
                                     </div>
                                     <div class="portfolio_title">
-                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Black Eagle</a></h5>
+                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Courvoisier</a></h5>
                                     </div>
                                 </div>
                             </article>
                         </li>
-                        <li class="animal">
+                        <li class="black">
                             <article class="item_holder">
-                                <img class="image" src="{{ asset('assets/images/4.jpg') }}" alt="">
-                                <div class="overlay">
-                                    <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/4.jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon zoom">Zoom</span>
-                                        </a>
-                                        <a class="gownload" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 29.978 29.978" style="enable-background:new 0 0 29.978 29.978;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M25.462,19.105v6.848H4.515v-6.848H0.489v8.861c0,1.111,0.9,2.012,2.016,2.012h24.967c1.115,0,2.016-0.9,2.016-2.012   v-8.861H25.462z"></path>
-    <path d="M14.62,18.426l-5.764-6.965c0,0-0.877-0.828,0.074-0.828s3.248,0,3.248,0s0-0.557,0-1.416c0-2.449,0-6.906,0-8.723   c0,0-0.129-0.494,0.615-0.494c0.75,0,4.035,0,4.572,0c0.536,0,0.524,0.416,0.524,0.416c0,1.762,0,6.373,0,8.742   c0,0.768,0,1.266,0,1.266s1.842,0,2.998,0c1.154,0,0.285,0.867,0.285,0.867s-4.904,6.51-5.588,7.193   C15.092,18.979,14.62,18.426,14.62,18.426z"></path>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon download">Download</span>
-                                        </a>
-                                        <g>
-    <g>
-        <circle cx="13.679" cy="24.632" r="2.146"></circle>
-        <circle cx="22.271" cy="24.632" r="2.146"></circle>
-        <path d="M27.931,6.281c-0.47-0.472-1.395-0.457-1.395-0.457H7.648L7.024,3.221c-0.223-0.933-1.059-1.593-2.02-1.593H0l0.969,2.079    l3.052-0.01c0.693-0.002,1.292,0.485,1.433,1.165l2.783,13.395c0.326,1.572,1.71,2.702,3.315,2.702c3.995,0,11.053,0,12.259,0    c1.697,0,1.802-1.87,1.802-1.87s-9.963,0-13.512,0c-0.698,0-1.514,0.097-2.032-1.915c-0.192-0.745-0.641-3.006-0.641-3.006    l16.921-0.022c0.744-0.026,1.377-0.589,1.462-1.352l0.578-5.264C28.44,7.046,28.403,6.75,27.931,6.281z M25.935,12.038H8.975    L8.155,8.21h18.196L25.935,12.038z"></path>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon purchase">Purchase</span>
-                                        </a>
+                                    <img class="image" src="{{ asset('assets/images/gallery/black.jpg') }}" alt="">
+                                    <div class="overlay">
+                                        <div class="clickable_wrap">
+                                            <a class="zoom" href="{{ asset('assets/images/gallery/black.jpg') }}">
+                                                <i class="fas fa-expand"></i>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio_title">
+                                            <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Blakkoffie</a></h5>
+                                        </div>
                                     </div>
-                                    <div class="portfolio_title">
-                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Rare Eagle</a></h5>
-                                    </div>
-                                </div>
-                            </article>
+                                </article>
                         </li>
-                        <li class="animal">
+                        <li class="snn">
                             <article class="item_holder">
-                                <img class="image" src="{{ asset('assets/images/3(3).jpg') }}" alt="">
-                                <div class="overlay">
-                                    <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/3(3).jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon zoom">Zoom</span>
-                                        </a>
-                                        <a class="gownload" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 29.978 29.978" style="enable-background:new 0 0 29.978 29.978;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M25.462,19.105v6.848H4.515v-6.848H0.489v8.861c0,1.111,0.9,2.012,2.016,2.012h24.967c1.115,0,2.016-0.9,2.016-2.012   v-8.861H25.462z"></path>
-    <path d="M14.62,18.426l-5.764-6.965c0,0-0.877-0.828,0.074-0.828s3.248,0,3.248,0s0-0.557,0-1.416c0-2.449,0-6.906,0-8.723   c0,0-0.129-0.494,0.615-0.494c0.75,0,4.035,0,4.572,0c0.536,0,0.524,0.416,0.524,0.416c0,1.762,0,6.373,0,8.742   c0,0.768,0,1.266,0,1.266s1.842,0,2.998,0c1.154,0,0.285,0.867,0.285,0.867s-4.904,6.51-5.588,7.193   C15.092,18.979,14.62,18.426,14.62,18.426z"></path>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon download">Download</span>
-                                        </a>
-                                        <g>
-    <g>
-        <circle cx="13.679" cy="24.632" r="2.146"></circle>
-        <circle cx="22.271" cy="24.632" r="2.146"></circle>
-        <path d="M27.931,6.281c-0.47-0.472-1.395-0.457-1.395-0.457H7.648L7.024,3.221c-0.223-0.933-1.059-1.593-2.02-1.593H0l0.969,2.079    l3.052-0.01c0.693-0.002,1.292,0.485,1.433,1.165l2.783,13.395c0.326,1.572,1.71,2.702,3.315,2.702c3.995,0,11.053,0,12.259,0    c1.697,0,1.802-1.87,1.802-1.87s-9.963,0-13.512,0c-0.698,0-1.514,0.097-2.032-1.915c-0.192-0.745-0.641-3.006-0.641-3.006    l16.921-0.022c0.744-0.026,1.377-0.589,1.462-1.352l0.578-5.264C28.44,7.046,28.403,6.75,27.931,6.281z M25.935,12.038H8.975    L8.155,8.21h18.196L25.935,12.038z"></path>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon purchase">Purchase</span>
-                                        </a>
+                                    <img class="image" src="{{ asset('assets/images/gallery/snn.jpg') }}" alt="">
+                                    <div class="overlay">
+                                        <div class="clickable_wrap">
+                                            <a class="zoom" href="{{ asset('assets/images/gallery/snn.jpg') }}">
+                                                <i class="fas fa-expand"></i>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio_title">
+                                            <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Sphe & Naves</a></h5>
+                                        </div>
                                     </div>
-                                    <div class="portfolio_title">
-                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Funny Cat</a></h5>
-                                    </div>
-                                </div>
-                            </article>
+                                </article>
                         </li>
-                        <li class="nature">
+                        <li class="wwc">
                             <article class="item_holder">
-                                <img class="image" src="{{ asset('assets/images/1(2).jpg') }}" alt="">
-                                <div class="overlay">
-                                    <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/1(2).jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon zoom">Zoom</span>
-                                        </a>
-                                        <a class="gownload" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 29.978 29.978" style="enable-background:new 0 0 29.978 29.978;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M25.462,19.105v6.848H4.515v-6.848H0.489v8.861c0,1.111,0.9,2.012,2.016,2.012h24.967c1.115,0,2.016-0.9,2.016-2.012   v-8.861H25.462z"></path>
-    <path d="M14.62,18.426l-5.764-6.965c0,0-0.877-0.828,0.074-0.828s3.248,0,3.248,0s0-0.557,0-1.416c0-2.449,0-6.906,0-8.723   c0,0-0.129-0.494,0.615-0.494c0.75,0,4.035,0,4.572,0c0.536,0,0.524,0.416,0.524,0.416c0,1.762,0,6.373,0,8.742   c0,0.768,0,1.266,0,1.266s1.842,0,2.998,0c1.154,0,0.285,0.867,0.285,0.867s-4.904,6.51-5.588,7.193   C15.092,18.979,14.62,18.426,14.62,18.426z"></path>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon download">Download</span>
-                                        </a>
-                                       <g>
-    <g>
-        <circle cx="13.679" cy="24.632" r="2.146"></circle>
-        <circle cx="22.271" cy="24.632" r="2.146"></circle>
-        <path d="M27.931,6.281c-0.47-0.472-1.395-0.457-1.395-0.457H7.648L7.024,3.221c-0.223-0.933-1.059-1.593-2.02-1.593H0l0.969,2.079    l3.052-0.01c0.693-0.002,1.292,0.485,1.433,1.165l2.783,13.395c0.326,1.572,1.71,2.702,3.315,2.702c3.995,0,11.053,0,12.259,0    c1.697,0,1.802-1.87,1.802-1.87s-9.963,0-13.512,0c-0.698,0-1.514,0.097-2.032-1.915c-0.192-0.745-0.641-3.006-0.641-3.006    l16.921-0.022c0.744-0.026,1.377-0.589,1.462-1.352l0.578-5.264C28.44,7.046,28.403,6.75,27.931,6.281z M25.935,12.038H8.975    L8.155,8.21h18.196L25.935,12.038z"></path>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon purchase">Purchase</span>
-                                        </a>
+                                    <img class="image" src="{{ asset('assets/images/gallery/wwc.jpg') }}" alt="">
+                                    <div class="overlay">
+                                        <div class="clickable_wrap">
+                                            <a class="zoom" href="{{ asset('assets/images/gallery/wwc.jpg') }}">
+                                                <i class="fas fa-expand"></i>
+                                            </a>
+                                        </div>
+                                        <div class="portfolio_title">
+                                            <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Woman Crush Wednesday</a></h5>
+                                        </div>
                                     </div>
-                                    <div class="portfolio_title">
-                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Beautiful Flower</a></h5>
-                                    </div>
-                                </div>
-                            </article>
+                                </article>
                         </li>
-                        <li class="people">
+                        <li class="pk">
                             <article class="item_holder">
-                                <img class="image" src=".{{ asset('assets/images/1(3).jpg') }}" alt="">
-                                <div class="overlay">
-                                    <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/1(3).jpg') }}"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="533.333px" height="533.333px" viewBox="0 0 533.333 533.333" style="enable-background:new 0 0 533.333 533.333;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M533.333,0v216.667L450,133.333l-100,100l-50-50l100-100L316.667,0H533.333z M233.333,350l-100,100l83.333,83.333H0   V316.667L83.333,400l100-100L233.333,350z"></path>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon zoom">Zoom</span>
-                                        </a>
-                                        <a class="gownload" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#">
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 29.978 29.978" style="enable-background:new 0 0 29.978 29.978;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <path d="M25.462,19.105v6.848H4.515v-6.848H0.489v8.861c0,1.111,0.9,2.012,2.016,2.012h24.967c1.115,0,2.016-0.9,2.016-2.012   v-8.861H25.462z"></path>
-    <path d="M14.62,18.426l-5.764-6.965c0,0-0.877-0.828,0.074-0.828s3.248,0,3.248,0s0-0.557,0-1.416c0-2.449,0-6.906,0-8.723   c0,0-0.129-0.494,0.615-0.494c0.75,0,4.035,0,4.572,0c0.536,0,0.524,0.416,0.524,0.416c0,1.762,0,6.373,0,8.742   c0,0.768,0,1.266,0,1.266s1.842,0,2.998,0c1.154,0,0.285,0.867,0.285,0.867s-4.904,6.51-5.588,7.193   C15.092,18.979,14.62,18.426,14.62,18.426z"></path>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-    <g>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon download">Download</span>
-                                        </a>
-                                        <a class="purchase" href="http://frenify.com/envato/marketify/html/medina/1/index_2.html#"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 28.406 28.406" style="enable-background:new 0 0 28.406 28.406;" xml:space="preserve" class="svg replaced-svg">
-<g>
-    <g>
-        <circle cx="13.679" cy="24.632" r="2.146"></circle>
-        <circle cx="22.271" cy="24.632" r="2.146"></circle>
-        <path d="M27.931,6.281c-0.47-0.472-1.395-0.457-1.395-0.457H7.648L7.024,3.221c-0.223-0.933-1.059-1.593-2.02-1.593H0l0.969,2.079    l3.052-0.01c0.693-0.002,1.292,0.485,1.433,1.165l2.783,13.395c0.326,1.572,1.71,2.702,3.315,2.702c3.995,0,11.053,0,12.259,0    c1.697,0,1.802-1.87,1.802-1.87s-9.963,0-13.512,0c-0.698,0-1.514,0.097-2.032-1.915c-0.192-0.745-0.641-3.006-0.641-3.006    l16.921-0.022c0.744-0.026,1.377-0.589,1.462-1.352l0.578-5.264C28.44,7.046,28.403,6.75,27.931,6.281z M25.935,12.038H8.975    L8.155,8.21h18.196L25.935,12.038z"></path>
-    </g>
-</g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-                                                <g>
-                                                </g>
-</svg>
-                                            <span class="definition_icon purchase">Purchase</span>
-                                        </a>
+                                    <img class="image" src="{{ asset('assets/images/gallery/pk.jpg') }}" alt="">
+                                    <div class="overlay">
+                                        <div class="clickable_wrap">
+                                            <a class="zoom" href="{{ asset('assets/images/gallery/pk.jpg') }}">
+                                                <i class="fas fa-expand"></i></a>
+                                        </div>
+                                        <div class="portfolio_title">
+                                            <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Prince Kaybee</a></h5>
+                                        </div>
                                     </div>
-                                    <div class="portfolio_title">
-                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Isabelle Alton</a></h5>
-                                    </div>
-                                </div>
-                            </article>
+                                </article>
                         </li>
                     </ul>
+                    </div>
                 </div>
             </div>
         </div>

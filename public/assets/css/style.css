@@ -145,8 +145,8 @@ img.svg{
 .medina_tm_header .in_relative{position: relative;}
 .medina_tm_header .logo{
 	position: absolute;
-	left: 0px;
-	bottom: -47px;
+	left: 40px;
+	bottom: -60px;
 }
 .medina_tm_header .logo .dark{display: none;}
 .medina_tm_header .logo .light{display: inline-block;}
@@ -3738,4 +3738,5 @@ img.svg{
 	.medina_tm_leave_comment .first_row ul li{width: 100%;padding: 0px;}
 	.medina_tm_main_demos_list_wrap ul{margin-left: 0px;}
 	.medina_tm_main_demos_list_wrap ul li{width: 100%;padding: 0px;}
-}	
+}
+

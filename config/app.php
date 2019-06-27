@@ -166,6 +166,8 @@ return [
          * Package Service Providers...
          */
 
+        Mtownsend\RequestXml\Providers\RequestXmlServiceProvider::class,
+
         /*
          * Application Service Providers...
          */
