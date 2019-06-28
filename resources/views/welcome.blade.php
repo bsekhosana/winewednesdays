@@ -15,6 +15,8 @@
     <link href="{{ asset('assets/css/plugins.css') }}" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/plugins.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/animate.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/normalize.css') }}">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
     {{--<!--[if lt IE 9]> <script type="text/javascript" src="{{ asset('assets/css/plugins.css') }}js/modernizr.custom.js"></script> <![endif]-->--}}
     {{--<!-- /STYLES -->--}}
@@ -475,7 +477,7 @@
             clip: rect(0, 1680px, 964px, 0);
         }</style></head>
 
-<body data-gr-c-s-loaded="true">
+<body data-gr-c-s-loaded="true" id="body">
 
 <!-- WRAPPER ALL -->
 <div class="medina_tm_wrapper_all" data-audio="off">
@@ -748,13 +750,11 @@
                             <article class="item_holder">
                                 <img class="image" src="{{ asset('assets/images/gallery/48gin.jpg') }}" alt="">
                                 <div class="overlay">
-                                    <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/gallery/48gin.jpg') }}" onclick="fetchGalleryImages('48 gin bernini')">
-                                            <i class="fas fa-expand"></i>
-                                        </a>
+                                    <div class="gallery-link" onclick="fetchGalleryImages('48 gin bernini')">
+                                        <i class="fas fa-expand"></i>
                                     </div>
                                     <div class="portfolio_title">
-                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">48 Gin & Benini</a></h5>
+                                        <h5 class="title_name">48 Gin & Bernini</h5>
                                     </div>
                                 </div>
                             </article>
@@ -763,13 +763,11 @@
                             <article class="item_holder">
                                 <img class="image" src="{{ asset('assets/images/gallery/bnc.jpg') }}" alt="">
                                 <div class="overlay">
-                                    <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/gallery/bnc.jpg') }}" onclick="fetchGalleryImages('bnc')">
-                                            <i class="fas fa-expand"></i>
-                                        </a>
+                                    <div class="gallery-link" onclick="fetchGalleryImages('bnc')">
+                                        <i class="fas fa-expand"></i>
                                     </div>
                                     <div class="portfolio_title">
-                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Bonnie & Clyde</a></h5>
+                                        <h5 class="title_name">Bonnie & Clyde</h5>
                                     </div>
                                 </div>
                             </article>
@@ -778,13 +776,11 @@
                             <article class="item_holder">
                                 <img class="image" src="{{ asset('assets/images/gallery/simmy.jpg') }}" alt="">
                                 <div class="overlay">
-                                    <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/gallery/simmy.jpg') }}" onclick="fetchGalleryImages('simmy')">
-                                            <i class="fas fa-expand"></i>
-                                        </a>
+                                    <div class="gallery-link" onclick="fetchGalleryImages('simmy')">
+                                        <i class="fas fa-expand"></i>
                                     </div>
                                     <div class="portfolio_title">
-                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Simmy</a></h5>
+                                        <h5 class="title_name">Simmy</h5>
                                     </div>
                                 </div>
                             </article>
@@ -793,13 +789,11 @@
                             <article class="item_holder">
                                 <img class="image" src="{{ asset('assets/images/gallery/cvs.jpg') }}" alt="">
                                 <div class="overlay">
-                                    <div class="clickable_wrap">
-                                        <a class="zoom" href="{{ asset('assets/images/gallery/cvs.jpg') }}" onclick="fetchGalleryImages('courvoisier')">
-                                            <i class="fas fa-expand"></i>
-                                        </a>
+                                    <div class="gallery-link" onclick="fetchGalleryImages('courvoisier')">
+                                        <i class="fas fa-expand"></i>
                                     </div>
                                     <div class="portfolio_title">
-                                        <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Courvoisier</a></h5>
+                                        <h5 class="title_name">Courvoisier</h5>
                                     </div>
                                 </div>
                             </article>
@@ -808,13 +802,11 @@
                             <article class="item_holder">
                                     <img class="image" src="{{ asset('assets/images/gallery/black.jpg') }}" alt="">
                                     <div class="overlay">
-                                        <div class="clickable_wrap">
-                                            <a class="zoom" href="{{ asset('assets/images/gallery/black.jpg') }}" onclick="fetchGalleryImages('black cofee 2019')">
-                                                <i class="fas fa-expand"></i>
-                                            </a>
+                                        <div class="gallery-link" onclick="fetchGalleryImages('black cofee 2019')">
+                                            <i class="fas fa-expand"></i>
                                         </div>
                                         <div class="portfolio_title">
-                                            <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Blakkoffie</a></h5>
+                                            <h5 class="title_name">Blackoffie</h5>
                                         </div>
                                     </div>
                                 </article>
@@ -823,13 +815,11 @@
                             <article class="item_holder">
                                     <img class="image" src="{{ asset('assets/images/gallery/snn.jpg') }}" alt="">
                                     <div class="overlay">
-                                        <div class="clickable_wrap">
-                                            <a class="zoom" href="{{ asset('assets/images/gallery/snn.jpg') }}" onclick="fetchGalleryImages('sphe & naves')">
-                                                <i class="fas fa-expand"></i>
-                                            </a>
+                                        <div class="gallery-link" onclick="fetchGalleryImages('sphe & naves')">
+                                            <i class="fas fa-expand"></i>
                                         </div>
                                         <div class="portfolio_title">
-                                            <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Sphe & Naves</a></h5>
+                                            <h5 class="title_name">Sphe & Naves</h5>
                                         </div>
                                     </div>
                                 </article>
@@ -838,13 +828,11 @@
                             <article class="item_holder">
                                     <img class="image" src="{{ asset('assets/images/gallery/wwc.jpg') }}" alt="">
                                     <div class="overlay">
-                                        <div class="clickable_wrap">
-                                            <a class="zoom" href="{{ asset('assets/images/gallery/wwc.jpg') }}" onclick="fetchGalleryImages('wednescrush')">
-                                                <i class="fas fa-expand"></i>
-                                            </a>
+                                        <div class="gallery-link" onclick="fetchGalleryImages('wednescrush')">
+                                            <i class="fas fa-expand"></i>
                                         </div>
                                         <div class="portfolio_title">
-                                            <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Woman Crush Wednesday</a></h5>
+                                            <h5 class="title_name">Wine Wed Crush</h5>
                                         </div>
                                     </div>
                                 </article>
@@ -853,12 +841,11 @@
                             <article class="item_holder">
                                     <img class="image" src="{{ asset('assets/images/gallery/pk.jpg') }}" alt="">
                                     <div class="overlay">
-                                        <div class="clickable_wrap">
-                                            <a class="zoom" href="{{ asset('assets/images/gallery/pk.jpg') }}" onclick="fetchGalleryImages('prince')">
-                                                <i class="fas fa-expand"></i></a>
+                                        <div class="gallery-link" onclick="fetchGalleryImages('prince')">
+                                                <i class="fas fa-expand"></i>
                                         </div>
                                         <div class="portfolio_title">
-                                            <h5 class="title_name"><a href="http://frenify.com/envato/marketify/html/medina/1/portfolio_single.html">Prince Kaybee</a></h5>
+                                            <h5 class="title_name">Prince Kaybee</h5>
                                         </div>
                                     </div>
                                 </article>
@@ -1034,6 +1021,9 @@
 
 </div>
 
+
+<a id="dialogue" href="#animatedModal" hidden>click me</a><div id="animatedModal"><div class="close-animatedModal">CLOSE MODAL</div><div class="modal-content"></div></div>
+
 <!-- / WRAPPER ALL -->
 
 <!-- SCRIPTS -->
@@ -1041,9 +1031,12 @@
 {{--<!--[if lt IE 10]> <script type="text/javascript" src="js/ie8.js"></script> <![endif]-->--}}
 <script src="{{ asset('assets/js/plugins.js') }}"></script>
 <script src="{{ asset('assets/js/init.js') }}"></script>
+<script src="{{ asset('assets/js/animatedModal.min.js') }}"></script>
 <!-- /SCRIPTS -->
 
 <script type="text/javascript">
+
+    $("#dialogue").animatedModal();
 
         function fetchGalleryImages(folder) {
             $.ajax({
@@ -1051,6 +1044,10 @@
                 url: '{{ url('/get-images') }}/'+folder,
                 dataType: 'json',
                 success: function (data) {
+                    $('#body').append('');
+
+                    $("#dialogue").click();
+
                     $.each(data, function(index, item) {
                         console.log(item);
                     });
