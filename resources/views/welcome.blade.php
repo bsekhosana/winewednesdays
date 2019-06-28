@@ -16,7 +16,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/plugins.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/animate.min.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/normalize.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/normalize.min.css') }}">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
     {{--<!--[if lt IE 9]> <script type="text/javascript" src="{{ asset('assets/css/plugins.css') }}js/modernizr.custom.js"></script> <![endif]-->--}}
     {{--<!-- /STYLES -->--}}
@@ -751,7 +751,7 @@
                                 <img class="image" src="{{ asset('assets/images/gallery/48gin.jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="gallery-link" onclick="fetchGalleryImages('48 gin bernini')">
-                                        <i class="fas fa-expand"></i>
+                                        <i class="fas fa-eye"></i>
                                     </div>
                                     <div class="portfolio_title">
                                         <h5 class="title_name">48 Gin & Bernini</h5>
@@ -764,7 +764,7 @@
                                 <img class="image" src="{{ asset('assets/images/gallery/bnc.jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="gallery-link" onclick="fetchGalleryImages('bnc')">
-                                        <i class="fas fa-expand"></i>
+                                        <i class="fas fa-eye"></i>
                                     </div>
                                     <div class="portfolio_title">
                                         <h5 class="title_name">Bonnie & Clyde</h5>
@@ -777,7 +777,7 @@
                                 <img class="image" src="{{ asset('assets/images/gallery/simmy.jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="gallery-link" onclick="fetchGalleryImages('simmy')">
-                                        <i class="fas fa-expand"></i>
+                                        <i class="fas fa-eye"></i>
                                     </div>
                                     <div class="portfolio_title">
                                         <h5 class="title_name">Simmy</h5>
@@ -790,7 +790,7 @@
                                 <img class="image" src="{{ asset('assets/images/gallery/cvs.jpg') }}" alt="">
                                 <div class="overlay">
                                     <div class="gallery-link" onclick="fetchGalleryImages('courvoisier')">
-                                        <i class="fas fa-expand"></i>
+                                        <i class="fas fa-eye"></i>
                                     </div>
                                     <div class="portfolio_title">
                                         <h5 class="title_name">Courvoisier</h5>
@@ -803,7 +803,7 @@
                                     <img class="image" src="{{ asset('assets/images/gallery/black.jpg') }}" alt="">
                                     <div class="overlay">
                                         <div class="gallery-link" onclick="fetchGalleryImages('black cofee 2019')">
-                                            <i class="fas fa-expand"></i>
+                                            <i class="fas fa-eye"></i>
                                         </div>
                                         <div class="portfolio_title">
                                             <h5 class="title_name">Blackoffie</h5>
@@ -816,7 +816,7 @@
                                     <img class="image" src="{{ asset('assets/images/gallery/snn.jpg') }}" alt="">
                                     <div class="overlay">
                                         <div class="gallery-link" onclick="fetchGalleryImages('sphe & naves')">
-                                            <i class="fas fa-expand"></i>
+                                            <i class="fas fa-eye"></i>
                                         </div>
                                         <div class="portfolio_title">
                                             <h5 class="title_name">Sphe & Naves</h5>
@@ -829,7 +829,7 @@
                                     <img class="image" src="{{ asset('assets/images/gallery/wwc.jpg') }}" alt="">
                                     <div class="overlay">
                                         <div class="gallery-link" onclick="fetchGalleryImages('wednescrush')">
-                                            <i class="fas fa-expand"></i>
+                                            <i class="fas fa-eye"></i>
                                         </div>
                                         <div class="portfolio_title">
                                             <h5 class="title_name">Wine Wed Crush</h5>
@@ -842,7 +842,7 @@
                                     <img class="image" src="{{ asset('assets/images/gallery/pk.jpg') }}" alt="">
                                     <div class="overlay">
                                         <div class="gallery-link" onclick="fetchGalleryImages('prince')">
-                                                <i class="fas fa-expand"></i>
+                                            <i class="fas fa-eye"></i>
                                         </div>
                                         <div class="portfolio_title">
                                             <h5 class="title_name">Prince Kaybee</h5>
@@ -1022,7 +1022,7 @@
 </div>
 
 
-<a id="dialogue" href="#animatedModal" hidden>click me</a><div id="animatedModal"><div class="close-animatedModal">CLOSE MODAL</div><div class="modal-content"></div></div>
+<a id="dialogue" href="#animatedModal" hidden>click me</a><div id="animatedModal"><div style="padding: 20px;" class="close-animatedModal"><i class="far fa-times-circle fa-3x"></i></div><div class="modal-content" id="modal-content"></div></div>
 
 <!-- / WRAPPER ALL -->
 
@@ -1036,7 +1036,24 @@
 
 <script type="text/javascript">
 
-    $("#dialogue").animatedModal();
+    $("#dialogue").animatedModal({
+        animatedIn:'lightSpeedIn',
+        animatedOut:'bounceOutDown',
+        color:'#ffffff',
+        // Callbacks
+        beforeOpen: function() {
+            console.log("The animation was called");
+        },
+        afterOpen: function() {
+            console.log("The animation is completed");
+        },
+        beforeClose: function() {
+            console.log("The animation was called");
+        },
+        afterClose: function() {
+            console.log("The animation is completed");
+        }
+    });
 
         function fetchGalleryImages(folder) {
             $.ajax({
@@ -1044,7 +1061,7 @@
                 url: '{{ url('/get-images') }}/'+folder,
                 dataType: 'json',
                 success: function (data) {
-                    $('#body').append('');
+                    document.getElementById('modal-content').innerHTML = '<img src="'+ data[0] +'"></img>';
 
                     $("#dialogue").click();
 
