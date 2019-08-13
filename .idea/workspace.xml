@@ -2,1370 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7814d3b6-ed36-4abd-a995-34ce707e7aaa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/1(1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/1(2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/1(3).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/1(5).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/2(1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/2(2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/2(3).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/2(4).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/2(5).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/2(6).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/3(1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/3(2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/3(3).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/4(1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/4(2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/7(1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0093.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0123.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0145.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0157.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0160.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0162.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0164.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0165.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0169.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0172.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0177.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0190.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0192.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0194.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0195.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0198.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0200.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0202.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0206.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0208.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0220.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0221.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0229.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0235.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0239.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0248.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0256.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0261.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0263.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0268.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0275.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0279.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0284.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0286.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0288.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0290.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0292.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0293.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0294.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0296.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0303.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0308.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0323.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0329.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0340.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0352.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0358.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0362.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0367.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0369.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0371.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0374.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0378.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0385.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0391.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0398.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0400.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0403.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0406.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0408.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0409.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0415.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0429.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0447.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0450.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0460.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0462.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0467.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0468.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0475.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0476.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0488.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0497.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0501.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0504.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0505.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0507.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0514.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0518.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0522.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0523.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0531.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0532.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0534.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0537.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0546.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0551.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0554.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0557.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0566.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0567.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0571.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0576.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0579.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0582.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0595.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0601.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0612.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0619.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0620.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0629.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0632.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0634.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0636.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0638.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0639.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0641.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0644.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0646.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0647.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0650.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0653.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0654.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0659.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0664.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0671.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0674.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0682.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0688.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0691.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0693.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0694.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0696.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0702.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0703.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0704.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0710.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0712.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0714.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0715.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0719.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0721.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0724.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0726.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0727.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0728.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0740.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0741.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0742.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0743.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0746.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0751.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0753.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0754.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0757.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0760.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0771.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0777.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0790.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0801.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0803.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0810.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0812.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0815.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0817.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48 GIN Bernini/361A0821.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/48gin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5039.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5049.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5056.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5067.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5071.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5074.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5077.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5079.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5081.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5082.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5084.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5086.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5094.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5095.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5098.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5101.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5107.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5115.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5123.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5124.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5125.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5131.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5144.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5147.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5154.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5158.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5160.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5163.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5168.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5173.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5175.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5176.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5177.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5178.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5183.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5184.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5186.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5189.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5191.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5192.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5197.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5201.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5206.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5211.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5213.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5215.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5224.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5227.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5232.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5236.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5238.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5240.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5242.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5243.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5247.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5250.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5252.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5253.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5254.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5257.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5258.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5260.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5261.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5262.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5263.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5267.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5270.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5271.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5274.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5276.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5278.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5280.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5283.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5285.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5294.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5296.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5301.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5305.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5307.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5313.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5314.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5315.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5316.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5319.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5324.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5325.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5328.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5329.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5331.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5333.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5341.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5345.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5350.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5355.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5358.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5360.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5361.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5362.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5367.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5368.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5369.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5370.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5379.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5382.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5386.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5387.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5393.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5399.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5400.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5407.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5410.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5413.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5414.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5421.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5423.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5425.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5426.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5430.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5433.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5436.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5437.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5439.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5443.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5444.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5446.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5448.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5451.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5460.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5463.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5467.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5468.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5469.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5471.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5473.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5481.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5492.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5493.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5498.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5507.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5509.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5512.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5516.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5517.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5520.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5529.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5556.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5561.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5566.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5575.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5586.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5604.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5623.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5624.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5629.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5635.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5637.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5639.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5641.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5643.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5647.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5648.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5660.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5663.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5669.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5675.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5678.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5685.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5687.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5689.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5693.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5697.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5700.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5702.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5712.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5720.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5723.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5733.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5734.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5744.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5758.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Black Cofee 2019/361A5759.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3521.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3522.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3524.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3526.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3529.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3538.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3541.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3546.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3549.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3557.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3562.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3573.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3576.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3586.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3594.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3595.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3597.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3599.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3602.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3603.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3609.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3620.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3632.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3645.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3647.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3659.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3660.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3663.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3668.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3670.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3673.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3674.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3683.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3691.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3696.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3697.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3701.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3704.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3716.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3718.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3724.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3729.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3735.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3738.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3743.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3744.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3745.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3746.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3747.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3749.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3756.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3765.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3769.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3776.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3780.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3791.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3794.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3796.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3799.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3806.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3809.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3819.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3821.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3832.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3839.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3846.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3850.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3855.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3865.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3869.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3873.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3879.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3886.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3887.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3888.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3891.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3894.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3896.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3904.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3910.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3915.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3926.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3928.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3931.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3932.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3940.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3942.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3946.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3953.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3963.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3964.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3968.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3969.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3970.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3971.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3972.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3976.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3980.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A3986.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4014.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4021.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4023.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4028.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4032.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4034.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4037.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4040.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4045.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4056.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4059.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4066.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4079.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4081.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4100.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4124.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4132.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Courvoisier/361A4141.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3827.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3829.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3839.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3849.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3850.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3854.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3859.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3861.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3864.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3865.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3871.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3876.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3878.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3885.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3887.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3888.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3890.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3899.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3903.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3907.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3910.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3912.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3914.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3916.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3921.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3924.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3927.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3930.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3933.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3934.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3938-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3938.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3941.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3946.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3947.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3950.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3952.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3961.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3963.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3966.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3967.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3970.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3974.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3976.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3979.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3985.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3986.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3988.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3989.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3992.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3994.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3995.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_3996.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4000.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4003-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4014.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4017.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4020.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4021.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4023.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4025.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4027.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4029.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4030.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4031.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4032.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4033.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4035.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4038.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4039.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4042.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4044.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4045.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4046.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4048.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4053-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4053.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4054.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4068.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4070.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4072.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4073.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4074.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4077.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4079.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4080.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4083.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4084.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4086.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4088.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4091-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4091.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4096.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4097.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4098.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4103.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4104.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4108.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4112.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4114.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4122.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4124.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4125.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4132.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4134.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4137.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4141.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4142.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4143.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4144.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4146.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4147.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4148.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4149.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4151.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4155.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4156.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4160.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4163.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4165.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4168.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4172.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4175.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4181.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4187.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4213.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4214.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4215.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4218.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4224.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4228.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4231.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4233.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4234.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4240.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4244.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4248.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4254.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4255.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4263.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4264.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4268.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4270.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4272.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4281.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4284.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4287.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4288.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4292.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4293.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4294.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4295.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4297.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4298.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4301.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4304.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4306.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4308.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4310.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4320.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4322.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4323.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4324.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4325.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4328.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4329.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4330.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4331.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4332.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4333.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4334.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4336.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4337.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4338.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4339.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4342.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4344.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4349.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4351.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4354.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4359-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4359.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4365.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4366.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4371.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4372.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4375.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4378.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4379.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4380.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4382.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4383.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4386.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4389.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4390.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4391.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4392.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4396.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4403.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4405.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4409.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4417.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4433.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4443.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Simmy/DSC_4445.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6385.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6387.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6388.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6393.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6395.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6396.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6397.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6403.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6407.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6408.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6409.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6410.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6413.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6421.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6424.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6430.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6432.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6433.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6434.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6436.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6437.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6440.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6441.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6446.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6447.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6449.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6454.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6458.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6459.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6460.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6463.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6468.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6469.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6471.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6472.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6473.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6475.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6478.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6479.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6481.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6482.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6483.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6484.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6486.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6491.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6493.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6494.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6495.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6502.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6506.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6508.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6511.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6513.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6514.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6517.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6518.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6520.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6521.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6522.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6523.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6524.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6525.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6527.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6529.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6530.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6531.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6534.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6535.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6537.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6541.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6548.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6550.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6559.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6560.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6565.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6566.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6569.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6573.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6574.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6576.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6578.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6581.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6582.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6583.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6586.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6588.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6590.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6592.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6594.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6595.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6603.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6605.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6607.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6609.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6610.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6613.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6617.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6618.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6619.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6620.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6624.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6626.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6634.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6635.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6639.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6647.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6649.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6653.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6654.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6655.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6656.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6659.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6661.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6662.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6663.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6666.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6667.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6668.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6669.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6672.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6673.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6674.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6677.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6679.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6682.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6684.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6685.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6686.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6687.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6688.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6690.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6691.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6693.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6695.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6701.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6702.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6705.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6712.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6713.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6715.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6720.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6721.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6723.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6725.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6726.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6727.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6728.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6731.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6732.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6733.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6737.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6753.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6755.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6757.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6758.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6762.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6764.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6765.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6766.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6770.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6772.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6780.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6794.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6804.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/Wednescrush/DSC_6805.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/black.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5740.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5743.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5746.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5751.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5768.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5797.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5803.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5807.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5808.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5811.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5813.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5815.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5817.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5818.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5823.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5824.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5831.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5832.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5842.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5848.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5849.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5851.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5852.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5854.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5855.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5857.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5858.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5861.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5863.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5864.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5865.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5866.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5868.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5870.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5871.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5872.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5873.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5875.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5877.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5882.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5883.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5884.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5886.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5887.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5888.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5889.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5891.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5892.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5895.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5896.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5902.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5908.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5909.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5911.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5912.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5913.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5914.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5917.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5919.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5921.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5923.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5926.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5933.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5936.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5940.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5941.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5950.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5957.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5958.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5963.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5964.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5966.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5967.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5968.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5969.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5971.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5974.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5975.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5978.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5981.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5982.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5987.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5992.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5994.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5995.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5997.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_5998.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6000.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6008.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6014.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6018.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6023.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6027.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6028.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6030.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6032.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6036.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6041.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6045.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6046.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6047.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6049.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6051.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6052.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6053.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6055.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6058.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6073.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6086.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6088.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6094.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6095.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6096.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6098.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6099.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6110.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6111.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6113.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6117.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6118.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6119.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6120.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6123.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6124.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6135.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6136.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6137.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6138.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6139.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6140.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6142.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6143.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6146.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6147.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6148.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6149.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6153.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6154.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6159.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6161.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6162.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6171.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6173.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6174.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6175.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6176.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/bnc/DSC_6184.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/courvoisier.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/cvs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/pk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8534.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8540.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8542.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8550.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8555.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8556.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8561.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8562.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8563.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8565.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8568.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8577.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8579.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8581.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8582.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8592.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8596.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8598.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8603.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8608.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8610.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8616.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8621.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8624.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8631.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8632.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8633.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8635.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8641.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8642.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8646.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8648.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8649.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8654.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8657.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8660.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8663.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8665.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8669.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8670.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8671.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8673.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8674.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8678.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8680.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8682.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8683.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8684.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8688.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8691.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8692.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8694.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8695.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8701.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8708.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8711.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8717.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8721.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8722.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8726.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8729.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8733.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8736.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8741.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8752.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8757.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8758.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8766.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8767.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8770.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8772.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8777.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8778.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8779.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8788.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8793.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8797.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8798.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8799.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8801.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8807.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8810.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8828.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8833.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8836.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8841.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8843.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8845.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8852.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8856.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8857.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8859.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8861.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8864.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8867.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8870.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8875.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8885.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8887.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8889.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8891.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8899.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8901.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8902.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8906.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8908.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8910.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8918.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8921.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8924.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8927.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8933.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8934.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8941.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8946.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8951.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8952.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8956.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8960.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8965.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8968.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8972.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8979.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8983.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8987.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8992.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A8997.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A9003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A9004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A9009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A9012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A9018.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A9023.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A9029.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/prince/361A9030.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/simmy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/snn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7514.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7515.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7518.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7528.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7530.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7531.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7533.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7536.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7539.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7542.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7546.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7549.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7556.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7557.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7559.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7567.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7571.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7573.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7577.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7580.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7584.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7594.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7601.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7605.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7611.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7616.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7626.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7631.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7632.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7633.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7634.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7635.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7636.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7638.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7640.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7641.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7642.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7643.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7645.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7646.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7653.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7655.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7656.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7659.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7673.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7676.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7679.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7682.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7686.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7689.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7690.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7694.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7698.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7701.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7704.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7708.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7712.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7714.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7716.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7721.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7722.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7725.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7726.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7728.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7730.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7736.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7739.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7740.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7742.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7746.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7750.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7751.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7754.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7755.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7758.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7761.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7763.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7765.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7766.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7767.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7772.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7778.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7787.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7788.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7791.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7796.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7800.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7801.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7806.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7810.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7819.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7820.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7821.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7822.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7825.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7827.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7828.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7829.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7837.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7845.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7860.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7861.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7864.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7881.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7883.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7888.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7894.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7905.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7907.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7908.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7909.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7911.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7912.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7914.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7915.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/361A7921.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/GOPR0140.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/GOPR0143.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3674.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3676.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3679.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3682.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3683.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3685.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3688.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3690.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3693.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3703.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3706.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3712.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3717.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3718.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3721.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3725.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3726.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3727.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3730.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3733.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3734.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3737.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3738.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3741.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3742.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3745.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3749.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3750.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3874.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3876.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3881.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3893.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3898.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3902.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3905.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3906.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3908.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3909.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3923.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_3996.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_4036.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_4039.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_4052.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_4053.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_4055.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_4056.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_4060.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_4062.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/sphe &amp; naves/IMG_4071.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/gallery/wwc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/lindo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/lindo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/lindo_buthelezi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/lindo_standing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/macro_dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/macro_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/new_lindo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/sign-half-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/wine_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/ww_logo_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/ww_logo_red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/show-gallery/assets/images/ww_logo_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/ninja-slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/simplelightbox.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/ninja-slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/simple-lightbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/48gin.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/gallery.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/gallery.blade.php" afterPath="$PROJECT_DIR$/resources/views/gallery.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1380,24 +19,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="1058" column="35" lean-forward="false" selection-start-line="1058" selection-start-column="35" selection-end-line="1058" selection-end-column="35" />
+            <state relative-caret-position="219">
+              <caret line="1050" column="0" lean-forward="true" selection-start-line="1050" selection-start-column="0" selection-end-line="1050" selection-end-column="0" />
               <folding>
-                <marker date="1565694329968" expanded="true" signature="497766:497923" ph="..." />
-                <marker date="1565694329968" expanded="true" signature="498062:498105" ph="..." />
+                <marker date="1565695251965" expanded="true" signature="497835:497992" ph="..." />
+                <marker date="1565695251965" expanded="true" signature="498131:498174" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gallery.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/gallery.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="1821">
+              <caret line="132" column="23" lean-forward="false" selection-start-line="132" selection-start-column="23" selection-end-line="132" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -1537,8 +176,9 @@
         <option value="$PROJECT_DIR$/public/assets/images/gallery/48 GIN Bernini/48gin.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
-        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/storage/framework/views/e2e028abad5b38b12359d9974decdbeb8ba96af3.php" />
         <option value="$PROJECT_DIR$/resources/views/gallery.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
       </list>
     </option>
   </component>
@@ -1587,6 +227,60 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="winewednesdays" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="winewednesdays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="winewednesdays" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="winewednesdays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="winewednesdays" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="winewednesdays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="winewednesdays" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1804,12 +498,12 @@
       <workItem from="1563010027358" duration="114000" />
       <workItem from="1564597908942" duration="5207000" />
       <workItem from="1565595068281" duration="6907000" />
-      <workItem from="1565690959878" duration="2025000" />
+      <workItem from="1565690959878" duration="2823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56011000" />
+    <option name="totallyTimeSpent" value="56809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -1847,13 +541,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/assets/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/images/2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -2156,22 +843,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+    <entry file="file://$PROJECT_DIR$/storage/framework/views/e2e028abad5b38b12359d9974decdbeb8ba96af3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="1058" column="35" lean-forward="false" selection-start-line="1058" selection-start-column="35" selection-end-line="1058" selection-end-column="35" />
-          <folding>
-            <marker date="1565694329968" expanded="true" signature="497766:497923" ph="..." />
-            <marker date="1565694329968" expanded="true" signature="498062:498105" ph="..." />
-          </folding>
+        <state relative-caret-position="-216">
+          <caret line="1074" column="61" lean-forward="true" selection-start-line="1074" selection-start-column="61" selection-end-line="1074" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/gallery.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="1821">
+          <caret line="132" column="23" lean-forward="false" selection-start-line="132" selection-start-column="23" selection-end-line="132" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="1050" column="0" lean-forward="true" selection-start-line="1050" selection-start-column="0" selection-end-line="1050" selection-end-column="0" />
+          <folding>
+            <marker date="1565695251965" expanded="true" signature="497835:497992" ph="..." />
+            <marker date="1565695251965" expanded="true" signature="498131:498174" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

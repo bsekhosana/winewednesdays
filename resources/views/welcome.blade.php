@@ -1050,10 +1050,12 @@
     });
 
     function closeIFrame(){
-        $('#ifrm').remove();
+        $('#ifrm').slideUp(300, function(){ $(this).remove();});
     }
 
         function fetchGalleryImages(folder) {
+
+            this.closeIFrame();
 
             var ifrm = document.createElement('iframe');
             ifrm.setAttribute('id', 'ifrm'); // assign an id
