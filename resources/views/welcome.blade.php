@@ -1045,10 +1045,6 @@
 
 <script type="text/javascript">
 
-    $(document).ajaxComplete(function(evt){
-        $(window).trigger('resize'); //trigging the window resize event forces $.lazyload to look for new images to load
-    });
-
     function closeIFrame(){
         $('#ifrm').slideUp(300, function(){ $(this).remove();});
     }
@@ -1067,48 +1063,12 @@
             el.parentNode.insertBefore(ifrm, el);
 
             // assign url
-            ifrm.setAttribute('src', "{{  route('show-gallery', ['gallery' => '48 GIN Bernini' ]) }}");
+            ifrm.setAttribute('src', "/show-gallery/"+folder);
 
-            $('#my-gallery').show();
+            $('html, body').animate({
+                scrollTop: parseInt($("#ifrm").offset().top-200)
+            }, 900);
 
-//            $('#my-gallery').innerHTML = '<iframe src="http://aol.com" style="border: 0pt none ;'+
-//                'left: -453px; top: -70px; position: absolute;'+
-//                'width: 1440px;'+
-//                'height: 775px;" scrolling="no"></iframe>';
-
-                {{--.innerHTML = '<iframe src="{{  route('show-gallery', ['gallery' =>  "48gin"]) }}" style="border: 0pt none ;width: 100%;height: 100%;"></iframe>';--}}
-
-
-            {{--appendChild(<iframe src="'+ {{  route('show-gallery', ['gallery' =>  "48gin"]) }} +'" width="100%" height="600"></iframe>);--}}
-
-
-
-            {{--$.ajax({--}}
-                {{--type: 'GET', //THIS NEEDS TO BE GET--}}
-                {{--url: '{{ url('/get-images') }}/'+folder,--}}
-                {{--dataType: 'json',--}}
-                {{--success: function (data) {--}}
-
-                    {{--var slideInnerHtml = '';--}}
-
-                    {{--$.each(data, function(index, item) {--}}
-                        {{--slideInnerHtml += '<li><img class="ns-img" src="'+ data[index] +'"></img></li>';--}}
-                    {{--});--}}
-
-                    {{--$('#gallery-images').html(slideInnerHtml);--}}
-
-                    {{--$('#my-gallery').show();--}}
-
-                    {{--$.each(data, function(index, item) {--}}
-                        {{--$("#"+ index).attr('href',  data[index]);--}}
-                    {{--});--}}
-
-                    {{--console.log(slideInnerHtml);--}}
-
-                {{--},error:function(){--}}
-                    {{--console.log(data);--}}
-                {{--}--}}
-            {{--});--}}
         }
 
 

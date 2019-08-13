@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/simplelightbox.min.css') }}">
 </head>
-<body onload="fetchGalleryImages('48 GIN Bernini');">
+<body onload="fetchGalleryImages('{{ $gallery }}');">
 
 <div class="gallery" id="gallery-images">
 </div>

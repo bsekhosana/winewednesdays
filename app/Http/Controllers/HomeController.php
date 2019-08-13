@@ -41,7 +41,7 @@ class HomeController extends BaseController
     public function showGallery($gallery) : View
     {
 
-        return view('gallery');
+        return view('gallery', compact(['gallery']));
     }
 
     private function getFBFeed(){
