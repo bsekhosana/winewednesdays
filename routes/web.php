@@ -12,5 +12,6 @@
 */
 
 Route::get('/', 'HomeController@showHomepage')->name('homepage');
+Route::get('/show-gallery/{gallery}', 'HomeController@showGallery')->name('show-gallery');
 
 Route::get('/get-images/{folder}', 'HomeController@getFolderImages')->name('get-images');

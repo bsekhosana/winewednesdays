@@ -17,6 +17,8 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/animate.min.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/normalize.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/ninja-slider.css') }}">
+
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
     {{--<!--[if lt IE 9]> <script type="text/javascript" src="{{ asset('assets/css/plugins.css') }}js/modernizr.custom.js"></script> <![endif]-->--}}
     {{--<!-- /STYLES -->--}}
@@ -744,6 +746,11 @@
                         <li><a href="#" data-filter=".wwc">WineWed Crush</a></li>
                         <li><a href="#" data-filter=".pk">Prince Kaybee</a></li>
                     </ul>
+
+                    <div class="row" id="my-gallery">
+
+                    </div>
+
                     <div class="row">
                         <ul class="medina_tm_portfolio_list gallery_zoom">
                         <li class="48gin">
@@ -1022,7 +1029,8 @@
 </div>
 
 
-<a id="dialogue" href="#animatedModal" hidden>click me</a><div id="animatedModal"><div style="padding: 20px;" class="close-animatedModal"><i class="far fa-times-circle fa-3x"></i></div><div class="modal-content" id="modal-content"></div></div>
+    </div>
+</div>
 
 <!-- / WRAPPER ALL -->
 
@@ -1032,46 +1040,73 @@
 <script src="{{ asset('assets/js/plugins.js') }}"></script>
 <script src="{{ asset('assets/js/init.js') }}"></script>
 <script src="{{ asset('assets/js/animatedModal.min.js') }}"></script>
+<script src="{{ asset('assets/js/ninja-slider.js') }}"></script>
 <!-- /SCRIPTS -->
 
 <script type="text/javascript">
 
-    $("#dialogue").animatedModal({
-        animatedIn:'lightSpeedIn',
-        animatedOut:'bounceOutDown',
-        color:'#ffffff',
-        // Callbacks
-        beforeOpen: function() {
-            console.log("The animation was called");
-        },
-        afterOpen: function() {
-            console.log("The animation is completed");
-        },
-        beforeClose: function() {
-            console.log("The animation was called");
-        },
-        afterClose: function() {
-            console.log("The animation is completed");
-        }
+    $(document).ajaxComplete(function(evt){
+        $(window).trigger('resize'); //trigging the window resize event forces $.lazyload to look for new images to load
     });
 
+    function closeIFrame(){
+        $('#ifrm').remove();
+    }
+
         function fetchGalleryImages(folder) {
-            $.ajax({
-                type: 'GET', //THIS NEEDS TO BE GET
-                url: '{{ url('/get-images') }}/'+folder,
-                dataType: 'json',
-                success: function (data) {
-                    document.getElementById('modal-content').innerHTML = '<img src="'+ data[0] +'"></img>';
 
-                    $("#dialogue").click();
+            var ifrm = document.createElement('iframe');
+            ifrm.setAttribute('id', 'ifrm'); // assign an id
+            ifrm.setAttribute('width', '100%'); // assign an id
+            ifrm.setAttribute('height', '600px'); // assign an id
 
-                    $.each(data, function(index, item) {
-                        console.log(item);
-                    });
-                },error:function(){
-                    console.log(data);
-                }
-            });
+            // to place before another page element
+            var el = document.getElementById('my-gallery');
+            el.parentNode.insertBefore(ifrm, el);
+
+            // assign url
+            ifrm.setAttribute('src', "{{  route('show-gallery', ['gallery' => '48 GIN Bernini' ]) }}");
+
+            $('#my-gallery').show();
+
+//            $('#my-gallery').innerHTML = '<iframe src="http://aol.com" style="border: 0pt none ;'+
+//                'left: -453px; top: -70px; position: absolute;'+
+//                'width: 1440px;'+
+//                'height: 775px;" scrolling="no"></iframe>';
+
+                {{--.innerHTML = '<iframe src="{{  route('show-gallery', ['gallery' =>  "48gin"]) }}" style="border: 0pt none ;width: 100%;height: 100%;"></iframe>';--}}
+
+
+            {{--appendChild(<iframe src="'+ {{  route('show-gallery', ['gallery' =>  "48gin"]) }} +'" width="100%" height="600"></iframe>);--}}
+
+
+
+            {{--$.ajax({--}}
+                {{--type: 'GET', //THIS NEEDS TO BE GET--}}
+                {{--url: '{{ url('/get-images') }}/'+folder,--}}
+                {{--dataType: 'json',--}}
+                {{--success: function (data) {--}}
+
+                    {{--var slideInnerHtml = '';--}}
+
+                    {{--$.each(data, function(index, item) {--}}
+                        {{--slideInnerHtml += '<li><img class="ns-img" src="'+ data[index] +'"></img></li>';--}}
+                    {{--});--}}
+
+                    {{--$('#gallery-images').html(slideInnerHtml);--}}
+
+                    {{--$('#my-gallery').show();--}}
+
+                    {{--$.each(data, function(index, item) {--}}
+                        {{--$("#"+ index).attr('href',  data[index]);--}}
+                    {{--});--}}
+
+                    {{--console.log(slideInnerHtml);--}}
+
+                {{--},error:function(){--}}
+                    {{--console.log(data);--}}
+                {{--}--}}
+            {{--});--}}
         }
 
 

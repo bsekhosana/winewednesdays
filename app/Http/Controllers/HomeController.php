@@ -33,6 +33,16 @@ class HomeController extends BaseController
         return view('welcome');
     }
 
+    /**
+     * Show gallery.
+     *
+     * @return \Illuminate\View\View
+     */
+    public function showGallery($gallery) : View
+    {
+
+        return view('gallery');
+    }
 
     private function getFBFeed(){
         $client = new Client();
