@@ -319,6 +319,7 @@ function medina_tm_portfolio(){
 						queue				: false
 					}
 				});
+				parent.closeIFrame();
 				return false;
 			});	
 
